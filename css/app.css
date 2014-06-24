@@ -1,0 +1,300 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: 100%;
+  background: #ffcc00;
+  overflow-x: hidden;
+}
+
+#background {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  margin: -335px 0;
+  height: 660px;
+}
+
+
+@media only screen 
+and (min-width: 601px) {
+	#background {
+		background: url(../img/skyline.jpg) 50% 83% no-repeat;
+	}
+	#beams {
+		-webkit-perspective: 300;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		margin: -35px 0 0 -560px;
+		-webkit-transition: all 1s ease-in;
+		opacity: 1 !important;
+	}
+	.loading #beams {
+		opacity: 0 !important;
+	}
+	
+	.beam {
+		position: absolute;
+		display: block;
+		width: 2000px;
+		height: 20px;
+		background-image: -webkit-radial-gradient(right, 2300px 12px, #fff, rgba(255,255,255,0));
+		-webkit-animation: move 8s ease-in-out infinite;
+		-webkit-transform-origin: 240px 0;
+	}
+	
+	#beam2 {
+		position: absolute;
+		left: -80px;
+		top: 10px;
+	}
+	
+	#beam3 {
+		position: absolute;
+		left: -160px;
+		top: 24px;
+	}
+	
+	#beam4 {
+		position: absolute;
+		left: -220px;
+		top: 40px;
+	}
+	
+	
+	@-webkit-keyframes move {
+		0%, 100% {
+			-webkit-transform: rotateY(-89deg) rotateZ(-27deg) translate3d(0, -20px, 0);
+		}
+		50% {
+			-webkit-transform: rotateY(-82deg) rotateZ(-13deg) translate3d(0, 50px, 0);
+		}
+	}
+
+}
+
+@media only screen 
+and (max-width: 600px) {
+	#background {
+		background: url(../img/skyline_mobile.jpg) 50% 83% no-repeat;
+	}
+}
+
+#intro {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  margin: -360px 0;
+  height: 700px;
+}
+
+#intro a {
+	color: #c7950a;
+	text-decoration: none;
+}
+#intro a:hover {
+	color: #ffffff;
+}
+
+#intro > form {
+	position: relative;
+	height: 660px;
+	margin: -330px 0;
+	top: 50%;
+	font-size: 1em;
+}
+
+
+#intro > form > * {
+	text-align: center;
+	font-family: 'Doppio One';
+	color: #c7950a;
+	position: absolute;
+	left: 50%;
+	width: 500px;
+	margin: 0 -250px;
+}
+
+#intro .logo img {
+	width: 280px;
+}
+
+#intro .logo {
+	-webkit-transform: translateY(0);
+	-webkit-transition: all 1s ease-out;
+	-moz-transform: translateY(0);
+	-moz-transition: all 1s ease-out;
+	-ms-transform: translateY(0);
+	-ms-transition: all 1s ease-out;
+	-o-transform: translateY(0);
+	-o-transition: all 1s ease-out;
+	transform: translateY(0);
+	transition: all 1s ease-out;
+	opacity: 1 !important;
+}
+
+.loading #intro .logo {
+	-webkit-transform: translateY(40px);
+	-moz-transform: translateY(40px);
+	-ms-transform: translateY(40px);
+	-o-transform: translateY(40px);
+	transform: translateY(40px);
+	opacity: 0 !important;
+}
+
+#intro .input {
+	bottom: 65px;
+	width: 360px;
+	margin: 0 -190px;
+	left: 50%;
+}
+#intro .input span {
+	display: block;
+}
+#intro .input input {
+  position: absolute;
+  left: 0;
+  font-size: 20px;
+  line-height: 40px;
+  padding: 0 15px;
+  font-family: 'Open Sans';
+  border: 0;
+  outline: 0;
+  width: 260px;
+  height: 40px;
+  border-radius: 4px 0 0 4px;
+  box-shadow: 5px 5px 0 #e8b800, 4px 4px 0 #e8b800, 3px 3px 0 #e8b800, 2px 2px 0 #e8b800, 1px 1px 0 #e8b800;
+}
+#intro .input input[type='submit'] {
+	left: 290px;
+	width: 70px;
+	background: #c7950a;
+	color: #fff;
+	font-size: 15px;
+	cursor: pointer;
+	border-radius: 0 4px 4px 0;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+}
+#intro .input input[type='submit']:hover {
+	background: #c7950a;
+}
+#intro .load .input input[type='submit'] {
+	background-image: -webkit-gradient(linear, 0 0, 100% 100%,color-stop(.25, rgba(0, 0, 0, .1)),color-stop(.25, transparent), color-stop(.5, transparent),color-stop(.5, rgba(0, 0, 0, .1)),color-stop(.75, rgba(0, 0, 0, .1)),color-stop(.75, transparent), to(transparent)	   );
+	background-image: -webkit-linear-gradient(-45deg,rgba(0, 0, 0, .1) 25%,transparent 25%,transparent 50%,rgba(0, 0, 0, .1) 50%,rgba(0, 0, 0, .1) 75%,transparent 75%,transparent	   );
+	background-image: -moz-linear-gradient(-45deg,rgba(0, 0, 0, .1) 25%,transparent 25%,transparent 50%,rgba(0, 0, 0, .1) 50%,rgba(0, 0, 0, .1) 75%,transparent 75%,transparent	   );
+	background-image: -ms-linear-gradient(-45deg,rgba(0, 0, 0, .1) 25%,transparent 25%,transparent 50%,rgba(0, 0, 0, .1) 50%,rgba(0, 0, 0, .1) 75%,transparent 75%,transparent	   );
+	background-image: -o-linear-gradient(-45deg,rgba(0, 0, 0, .1) 25%,transparent 25%,transparent 50%,rgba(0, 0, 0, .1) 50%,rgba(0, 0, 0, .1) 75%,transparent 75%,transparent	   );
+	-webkit-background-size: 50px 50px;
+	-moz-background-size:    50px 50px;
+	-ms-background-size:    50px 50px;
+	-o-background-size:    50px 50px;
+	background-size:         50px 50px;	
+	-webkit-animation: loading 2s infinite linear;
+	-moz-animation: loading 2s infinite linear;
+	-ms-animation: loading 2s infinite linear;
+	-o-animation: loading 2s infinite linear;
+	animation: loading 2s infinite linear;
+}
+
+#intro .msg {
+	bottom: 0px;
+	font-size: 1em;
+}
+#intro .msg span {
+	display: block;
+	color: #fff;
+}
+
+#intro .menu {
+	bottom: -30px;
+	font-size: 1em;
+	text-transform: uppercase;
+}
+
+
+footer {
+	position: absolute;
+	top: 61%;
+	width: 100%;
+	height: 200px;
+	margin-top: 300px;
+}
+footer p {
+	position: relative;
+	bottom: 0;
+	color: #c7950a;
+	text-align: center;
+	font-family: 'Open Sans';
+	font-size: 0.85em;
+}
+footer .desc {
+	font-size: 2em;
+	font-family: 'Sanchez';
+	color: #000;
+	text-transform: uppercase;
+}
+footer .date {
+	font-size: 2em;
+	font-family: 'Great Vibes';
+	margin-bottom: 90px;
+}
+footer .date a {
+	text-decoration: none;
+}
+
+footer a {
+	color: #c7950a;
+}
+footer a:hover {
+	color: #fff;
+}
+
+
+@-moz-keyframes loading {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 50px 50px;
+  }
+}
+@-webkit-keyframes loading {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 50px 50px;
+  }
+}
+@-o-keyframes loading {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 50px 50px;
+  }
+}
+@-ms-keyframes loading {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 50px 50px;
+  }
+}
+@keyframes loading {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 50px 50px;
+  }
+}

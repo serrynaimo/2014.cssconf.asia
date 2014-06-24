@@ -1,3 +1,6 @@
+.DS_Store
+configs.php
+
 # Logs
 logs
 *.log
