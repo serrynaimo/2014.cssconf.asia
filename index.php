@@ -22,7 +22,7 @@
 	<meta property="og:title" content="CSSConf.Asia Singapore 2014"/>
 	<meta property="og:type" content="website"/>
 	<meta property="og:url" content="http://cssconf.asia/"/>
-	<meta property="og:image" content="http://cssconf.asia/assets/cssconfasia.png"/>
+	<meta property="og:image" content="http://cssconf.asia/assets/og_cssconfasia.jpg"/>
 	<meta property="og:site_name" content="CSSConf.Asia"/>
 	<meta property="og:description" content="Bridging web design and implementation. 19th Nov 2014, Amara Sanctuary, Sentosa, Singapore. Follow us on Twitter @cssconfasia"/>
 	<meta name="title" content="JSConf.Asia Singapore 2014"/>
