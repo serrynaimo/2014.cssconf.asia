@@ -62,10 +62,15 @@
 		</p>
 		<p>
 			CSSConf.Asia 2014 Singapore is part of<br/>Asia's most influential web developer festival.<br/><br/>
-			Checkout what we did in the past:<br/><a href="http://2012.jsconf.asia" target="_blank">JSCamp.Asia 2012 in Singapore</a>
-			 | <a href="http://2013.jsconf.asia" target="_blank">JSConf.Asia 2013 in Manila</a><br/><br/>
 			A Nerdherd Pte. Ltd. event<br/><br/>
 		</p>
+		<div id="jsconf">
+			<a href="http://2014.jsconf.asia">
+				<span class="title">20 + 21 NOV 2014</span>
+				<img src="http://2014.jsconf.asia/assets/jsconfasia.png" class="icon" />
+				<span class="desc">The JavaScript, web and mobile developer conference for Asia</span>
+			</a>
+		</div>
 	</footer>
 
     <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.3.js"></script>

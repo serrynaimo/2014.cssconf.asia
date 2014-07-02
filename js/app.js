@@ -48,3 +48,61 @@ $("#subscribeForm .msg").click(function() {
 setTimeout(function() {
 	$("body").removeClass("loading");
 }, 1400);
+
+var goUp,
+	dheight,
+	wheight,
+	animating,
+	touching,
+	snapTimer,
+	bottom = -320,
+	$layer = $('#jsconf');
+
+var scrollBack = function() {
+	animating = true;
+	$layer.animate({
+        bottom: bottom
+    }, 500, function() {
+	    animating = false;
+    });
+}, turnPage = function() {
+	animating = true;
+	$layer.animate({height: 1500}, 800, function() {
+		location = "/2014.jsconf.asia";
+	});	
+};
+	
+document.onreadystatechange = function () {
+	dheight = $(document).height();
+	goUp = bottom;
+};
+
+$(window).on('scroll touchmove', function(e) {
+	wheight = $(window).height();
+	
+	var fromBottom = dheight - wheight - window.pageYOffset;
+	
+	if(!animating && fromBottom < 20) {
+		clearTimeout(snapTimer);
+		
+		if(!touching) {
+			window.scrollTo(0, dheight - wheight - 20)
+		}
+		
+		goUp += 10;
+		if(goUp >= 0) {
+			turnPage();
+		}
+		else {
+			$layer.css({bottom: goUp});
+			snapTimer = setTimeout(scrollBack, 800);
+		}
+	}
+}).on('touchstart', function() {
+	touching = true;
+}).on('touchend', function() {
+	setTimeout(function() {
+		touching = false;
+		window.scrollTo(0, dheight - wheight - 20)
+	}, 500);
+});
