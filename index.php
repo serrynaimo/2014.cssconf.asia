@@ -46,13 +46,15 @@
 		<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" autofocus /><input type="submit" value="Send" /></span></div>
 		<div class="msg"><span></span></div>
 		<div class="menu">
-			<a href="http://twitter.com/cssconfasia">Get Updates</a> &nbsp; &#x2605; &nbsp;
-			<a href="https://jsconfasia.wufoo.com/forms/cssconf-and-jsconfasia/">Call for Speakers</a> &nbsp; &#x2605; &nbsp;
-			<a href="mailto:sponsor@jsconf.asia">Sponsorship</a>
+			<a href="https://jsconfasia.wufoo.com/forms/cssconf-and-jsconfasia/">About</a> &nbsp; &#x2605; &nbsp;
+			<a href="https://jsconfasia.wufoo.com/forms/cssconf-and-jsconfasia/">Speakers</a> &nbsp; &#x2605; &nbsp;
+			<a href="mailto:sponsor@jsconf.asia">Sponsors</a> &nbsp; &#x2605; &nbsp;
+			<a href="http://twitter.com/cssconfasia">Get Updates</a>
 		</div>
 	</form>
 	</section>
-	<footer>
+	<section id="body">
+		<section id="info">
 		<p class="desc">
 			Bridging web design<br/>and implementation
 		</p>
@@ -61,12 +63,51 @@
 			19th November 2014
 		</p>
 		<p>
-			CSSConf.Asia 2014 Singapore is part of<br/>Asia's most influential web developer festival.<br/><br/>
-			A Nerdherd Pte. Ltd. event<br/>
-			<a class="terms" href="terms.html">Terms &amp; Conditions</a><br/><br/>
+			sponsored by<br/>
+			<a href="http://www.pocketmath.com" target="_blank"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
 		</p>
-	</footer>
-
+		</section>
+		<section id="about">
+			<h2>About</h2>
+			<p>
+			<i>CSSConf is where design meets developers to inspire, educate and entertain around building the world's most engaging user interfaces.</i>
+			</p>
+			<h3>We haz the Speakers, the Wifis, the foods, the parties...</h3>
+			<p>
+			...or what we consider the essentials for a great event. You just learn so much better when you're happy and connected.
+			</p>
+			<p>
+			Jimmy Monkey stands ready for 8 hours of non-stop, competitive brewing and pulling shots. They craft maybe the most sophisticated espresso based coffees in all of Singapore and will be running our café. But don't worry: It's not that the conference content will be tiring... ;-)
+			</p>
+			<h3>It's for you!</h3>
+			<p>
+			We want to make a community event that brings Southeast-Asia's best web designers together in an playful and informal environment. It's gonna be a great setting for learning and exchange and we can't wait to see you there!
+			</p>
+		</section>
+		<section id="speakers">
+			<h2>Speakers</h2>
+			<div class="speaker">
+			
+			</div>
+		</section>
+		<section id="sponsors">
+			<h2>Sponsors</h2>
+		</section>
+		<footer>
+			<p>
+				CSSConf.Asia 2014 Singapore is part of<br/>Asia's most influential web developer festival.<br/><br/>
+				A Nerdherd Pte. Ltd. event<br/>
+				<a class="terms" href="terms.html">Terms &amp; Conditions</a><br/><br/>
+			</p>
+		</footer>
+	</section>
+	<nav>
+		<img src="assets/cssconfasia_icon.png" height="32" /><br/>
+		<a href="https://jsconfasia.wufoo.com/forms/cssconf-and-jsconfasia/">About</a> &nbsp; &#x2605; &nbsp;
+		<a href="https://jsconfasia.wufoo.com/forms/cssconf-and-jsconfasia/">Speakers</a> &nbsp; &#x2605; &nbsp;
+		<a href="mailto:sponsor@jsconf.asia">Sponsors</a> &nbsp; &#x2605; &nbsp;
+		<a href="http://twitter.com/cssconfasia">Get Updates</a>
+	</nav>
     <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.3.js"></script>
     <script type="text/javascript">window.jQuery || document.write('<script src="js/jquery.min.js">\x3C/script>')</script>
 	<script type="text/javascript" src="js/jquery.form.min.js"></script>
