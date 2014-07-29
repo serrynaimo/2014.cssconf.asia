@@ -9,7 +9,7 @@ body {
 }
 
 nav {
-	font-size: 1em;
+	font-size: .6rem;
 	text-transform: uppercase;
 	text-align: center;
 	font-family: 'Doppio One';
@@ -52,6 +52,9 @@ a:hover {
 
 @media only screen
 and (min-width: 601px) {
+	nav {
+		font-size: 1rem;
+	}
 	#background {
 		background: url(../img/skyline.jpg) 50% 83% no-repeat;
 	}
@@ -237,14 +240,9 @@ and (max-width: 600px) {
 
 #intro .menu {
 	bottom: -30px;
-	font-size: 1em;
+	font-size: 1rem;
 	text-transform: uppercase;
 }
-
-.visible #intro {
-	opacity: 0;
-}
-
 
 #body {
 	position: absolute;
@@ -342,7 +340,8 @@ and (max-width: 600px) {
 	margin: 40px auto 15px;
 	width: 400px;
 	text-transform: uppercase;
-	padding-left: 30px;	
+	padding-left: 30px;
+	letter-spacing: -1px;
 }
 
 

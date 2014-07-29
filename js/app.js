@@ -50,12 +50,13 @@ setTimeout(function() {
 }, 1400);
 
 var menuVisible = false
+var fromTop = parseInt($('.menu').offset().top, 10) - 33;
 $(window).on("scroll touchmove", function (e) {
-	if(window.pageYOffset > 704 && !menuVisible) {
+	if(window.pageYOffset > fromTop && !menuVisible) {
 		$("body").addClass("visible");
 		menuVisible = true;
 	}
-	else if(window.pageYOffset <= 704 && menuVisible) {
+	else if(window.pageYOffset <= fromTop && menuVisible) {
 		$("body").removeClass("visible");
 		menuVisible = false;
 	}
