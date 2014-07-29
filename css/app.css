@@ -266,6 +266,10 @@ and (max-width: 600px) {
 	padding-left: 30px;	
 }
 
+#body p a {
+	text-decoration: underline;
+}
+
 #body .desc {
 	font-size: 2em;
 	font-family: 'Sanchez';
@@ -367,7 +371,6 @@ and (max-width: 600px) {
 	text-align: center;
 	color: #c7950a;
 }
-
 
 
 @-moz-keyframes loading {
