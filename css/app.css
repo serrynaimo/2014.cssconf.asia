@@ -6,10 +6,11 @@ body {
   height: 100%;
   background: #ffcc00;
   overflow-x: hidden;
+  -webkit-text-size-adjust: 100%;
 }
 
 nav {
-	font-size: .6rem;
+	font-size: 1rem;
 	text-transform: uppercase;
 	text-align: center;
 	font-family: 'Doppio One';
@@ -52,9 +53,6 @@ a:hover {
 
 @media only screen
 and (min-width: 601px) {
-	nav {
-		font-size: 1rem;
-	}
 	#background {
 		background: url(../img/skyline.jpg) 50% 83% no-repeat;
 	}
@@ -302,10 +300,10 @@ and (max-width: 600px) {
 	position: absolute;
 	left: 50%;
 	top: 41px;
-	margin: 0 -240px;
+	margin: 0 -230px;
 	border: 8px solid #e6b715;
 	background: #e6b715;
-	width: 490px;
+	width: 455px;
 	height: 20px;
 	border-radius: 200px/20px;
 	-webkit-transform: rotate(-3deg);
@@ -321,10 +319,10 @@ and (max-width: 600px) {
 	position: absolute;
 	left: 51%;
 	top: 47px;
-	margin: 0 -240px;
+	margin: 0 -230px;
 	border-top: 1px solid #fff;
 	background: #ffcc00;
-	width: 510px;
+	width: 475px;
 	height: 36px;
 	border-radius: 200px/20px;
 	-webkit-transform: rotate(-3deg);
