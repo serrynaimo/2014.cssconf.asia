@@ -358,6 +358,7 @@ and (max-width: 600px) {
 }
 
 #info p {
+	padding: 0px;
 	width: 500px;
 	text-align: center;
 }
