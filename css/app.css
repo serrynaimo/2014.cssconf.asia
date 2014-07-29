@@ -17,7 +17,7 @@ body {
 }
 
 
-@media only screen 
+@media only screen
 and (min-width: 601px) {
 	#background {
 		background: url(../img/skyline.jpg) 50% 83% no-repeat;
@@ -34,7 +34,7 @@ and (min-width: 601px) {
 	.loading #beams {
 		opacity: 0 !important;
 	}
-	
+
 	.beam {
 		position: absolute;
 		display: block;
@@ -44,26 +44,26 @@ and (min-width: 601px) {
 		-webkit-animation: move 8s ease-in-out infinite;
 		-webkit-transform-origin: 240px 0;
 	}
-	
+
 	#beam2 {
 		position: absolute;
 		left: -80px;
 		top: 10px;
 	}
-	
+
 	#beam3 {
 		position: absolute;
 		left: -160px;
 		top: 24px;
 	}
-	
+
 	#beam4 {
 		position: absolute;
 		left: -220px;
 		top: 40px;
 	}
-	
-	
+
+
 	@-webkit-keyframes move {
 		0%, 100% {
 			-webkit-transform: rotateY(-89deg) rotateZ(-27deg) translate3d(0, -20px, 0);
@@ -75,7 +75,7 @@ and (min-width: 601px) {
 
 }
 
-@media only screen 
+@media only screen
 and (max-width: 600px) {
 	#background {
 		background: url(../img/skyline_mobile.jpg) 50% 83% no-repeat;
@@ -191,7 +191,7 @@ and (max-width: 600px) {
 	-moz-background-size:    50px 50px;
 	-ms-background-size:    50px 50px;
 	-o-background-size:    50px 50px;
-	background-size:         50px 50px;	
+	background-size:         50px 50px;
 	-webkit-animation: loading 2s infinite linear;
 	-moz-animation: loading 2s infinite linear;
 	-ms-animation: loading 2s infinite linear;
@@ -250,6 +250,8 @@ footer a {
 }
 footer a:hover {
 	color: #fff;
+}
+footer .terms {
 }
 
 

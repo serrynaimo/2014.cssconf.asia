@@ -1,0 +1,34 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: 100%;
+  background: #ffcc00;
+  overflow-x: hidden;
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  font-weight: 300;
+  color: #000;
+}
+
+body > * {
+	width: 500px;
+	margin: 30px auto;
+}
+
+b {
+	font-weight: 700;
+}
+
+h1 {
+	font-family: 'Sanchez';
+	text-align: center;
+}
+
+.content-info {
+	font-size: .85em;
+}
+
+a {
+	color: #000;
+}
