@@ -3,7 +3,7 @@
 
 	From the team that brought you JSCamp.Asia 2012 and JSConf.Asia 2013.
 	More info is on its way. Spread the word. Follow us on Twitter @cssconfasia
-	
+
 	If you want to help us out, drop thomas@cssconf.asia an email! ;)
 
 //-->
@@ -42,7 +42,7 @@
 	</section>
 	<section id="intro">
 	<form id="subscribeForm" action="http://2014.cssconf.asia/addsubscriber.php" method="get">
-		<div class="logo" style="opacity: 0;"><a href="http://facebook.com/cssconfasia"><img src="img/cssconfasia.png" /></a></div>
+		<div class="logo" style="opacity: 0;"><a href="http://facebook.com/cssconfasia"><img src="img/cssconfasia.png" alt="CSSConf.Asia 2014 Singapore" /></a></div>
 		<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" autofocus /><input type="submit" value="Send" /></span></div>
 		<div class="msg"><span></span></div>
 		<div class="menu">
@@ -77,10 +77,10 @@
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	
+
 	  ga('create', 'UA-31025490-5', 'cssconf.asia');
 	  ga('send', 'pageview');
-	
+
 	</script>
 </body>
 </html>
