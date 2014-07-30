@@ -289,7 +289,7 @@ and (max-width: 600px) {
 }
 
 #body .date {
-	font-size: 2em;
+	font-size: 2.2em;
 	font-family: 'Great Vibes';
 	color: #c7950a;
 	text-shadow: 1px 1px 0px rgba(255,255,255,.3);
