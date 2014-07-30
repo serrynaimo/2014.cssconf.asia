@@ -6,6 +6,7 @@ body {
   height: 100%;
   background: #ffcc00;
   overflow-x: hidden;
+  font-family: 'Open Sans';
   -webkit-text-size-adjust: 100%;
 }
 
@@ -35,12 +36,32 @@ nav img {
 
 
 a {
-	color: #c7950a;
-	text-decoration: none;
+	color: #000;
 }
-a:hover {
-	color: #ffffff;
+
+.button {
+    background: #c7950a;
+    color: #fff;
+    font-size: 15px;
+    border-radius: 4px;
+    padding: 12px 0;
+    display: block;
+    margin: 50px auto 0;
+    width: 360px;
+    text-decoration: none;
+    box-shadow: 5px 5px 0 #e8b800, 4px 4px 0 #e8b800, 3px 3px 0 #e8b800, 2px 2px 0 #e8b800, 1px 1px 0 #e8b800;
+    position: relative;
+    text-align: center;
 }
+
+.button span {
+    position: absolute;
+    right: 16px;
+    top: 13px;
+    color: #e8b800;
+    font-size: .9em;
+}
+
 
 #background {
   position: absolute;
@@ -233,7 +254,6 @@ and (max-width: 600px) {
 	display: block;
 	color: #fff;
 	font-size: .9em;
-	font-family: 'Open Sans';
 }
 
 #intro .menu {
@@ -255,15 +275,10 @@ and (max-width: 600px) {
 	position: relative;
 	bottom: 0;
 	color: #000;
-	font-family: 'Open Sans';
 	font-size: 0.85em;
 	width: 400px;
 	margin: 0 auto 20px;
-	padding-left: 30px;	
-}
-
-#body p a {
-	text-decoration: underline;
+	padding-left: 30px;
 }
 
 #body .desc {
@@ -280,8 +295,8 @@ and (max-width: 600px) {
 	text-shadow: 1px 1px 0px rgba(255,255,255,.3);
 }
 
-#body section {
-	margin: 150px 0;
+#body section, footer {
+	padding: 100px 0 0;
 }
 
 #body section h2 {
@@ -344,14 +359,12 @@ and (max-width: 600px) {
 
 
 #body .date a {
+    color: #c7950a;
 	text-decoration: none;
 }
 
-#body a {
-	color: #c7950a;
-}
-#body a:hover {
-	color: #fff;
+#body .date a:hover {
+    color: #fff;
 }
 
 #info p {
@@ -360,14 +373,54 @@ and (max-width: 600px) {
 	text-align: center;
 }
 
+#speakers .speaker {
+    margin: 0 auto;
+    width: 480px;
+}
 
+#speakers .speaker img {
+    float: left;
+    height: 100px;
+    width: 100px;
+    margin-left: 8px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 0 #e8b800, 4px 4px 0 #e8b800, 3px 3px 0 #e8b800, 2px 2px 0 #e8b800, 1px 1px 0 #e8b800;
+}
 
+#speakers .speaker h3, #speakers .speaker p {
+    margin-left: 100px;
+    width: 330px;
+}
 
+#speakers .speaker h3 a {
+    font-size: .7em;
+    color: #c7950a;
+    font-family: 'Open Sans';
+    text-transform: none;
+    text-decoration: none;
+    margin-left: 5px;
+}
 
+#speakers .speaker h3 a:hover {
+    color: #fff;
+}
 
 #body footer p {
 	text-align: center;
 	color: #c7950a;
+}
+
+#body footer p a {
+    color: #c7950a;
+}
+
+#intro .menu a, nav a {
+    color: #c7950a;
+    text-decoration: none;
+}
+
+#body footer p a:hover, #intro .menu a:hover, nav a:hover {
+    color: #fff;
 }
 
 

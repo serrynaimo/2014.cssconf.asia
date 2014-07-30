@@ -46,9 +46,9 @@
 		<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" autofocus /><input type="submit" value="Send" /></span></div>
 		<div class="msg"><span></span></div>
 		<div class="menu">
-			<a href="https://jsconfasia.wufoo.com/forms/cssconf-and-jsconfasia/">About</a> &nbsp; &#x2605; &nbsp;
-			<a href="https://jsconfasia.wufoo.com/forms/cssconf-and-jsconfasia/">Speakers</a> &nbsp; &#x2605; &nbsp;
-			<a href="mailto:sponsor@jsconf.asia">Sponsors</a> &nbsp; &#x2605; &nbsp;
+			<a href="#about">About</a> &nbsp; &#x2605; &nbsp;
+			<a href="#speakers">Speakers</a> &nbsp; &#x2605; &nbsp;
+			<a href="#sponsors">Sponsors</a> &nbsp; &#x2605; &nbsp;
 			<a href="http://twitter.com/cssconfasia">Get Updates</a>
 		</div>
 	</form>
@@ -66,6 +66,10 @@
 			sponsored by<br/>
 			<a href="http://www.pocketmath.com" target="_blank"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
 		</p>
+		<a href="" class="button">
+			Get your ticket
+			<span>1 day - S$280</span>
+		</a>
 		</section>
 		<section id="about">
 			<h2>About</h2>
@@ -87,11 +91,58 @@
 		<section id="speakers">
 			<h2>Speakers</h2>
 			<div class="speaker">
-			
+				<a href="https://twitter.com/benschwarz" target="_blank"><img src="img/speakers/benschwarz.jpg" /></a>
+				<h3>Ben Schwarz <a href="https://twitter.com/benschwarz" target="_blank">@benschwarz</a></h3>
+				<p>
+					Ben is an independent web dude from Melbourne. He's 1/5th of CSSConfAU, a percentage of JSConf (We all know how good JavaScript is at numbers), a bower team member and a swag of other stupid projects.
+				</p>
 			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/ricostacruz" target="_blank"><img src="img/speakers/ricostacruz.jpg" /></a>
+				<h3>Rico Sta. Cruz <a href="https://twitter.com/ricostacruz" target="_blank">@ricostacruz</a></h3>
+				<p>
+					Rico is a Ruby, JavaScript developer and CSS afficionado from the Philippines whose passion lies in building great web applications and slick user interfaces. He is the co-founder of a small web development team in Manila called Nadarei, the author of the Backbone.js guide Backbone Patterns among other open-source projects.
+				</p>
+			</div>
+			<p>
+				<br/>
+				We're gonna reveal more speakers as we approach the event, so <a href="http://twitter.com/cssconfasia">stay tuned</a>!
+			</p>
+			<a href="" class="button">
+				Get your ticket
+				<span>1 day - S$280</span>
+			</a>
 		</section>
 		<section id="sponsors">
 			<h2>Sponsors</h2>
+			<div class="sponsor">
+				<h3>The boss</h3>
+				<p>
+					<a href="http://www.pocketmath.com" target="_blank"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
+				</p>
+				<p>
+					PocketMath is one of the first, and leading, mobile advertising platforms for buying real-time media across apps, games and mobile websites. And they're our generous head sponsor! Thanks PocketMath!
+				</p>
+			</div>
+			<div class="supporter">
+				<h3>The Supporters</h3>
+				<p>
+					<a href="https://about.redmart.com" target="_blank"><img src="img/sponsors/redmart.svg" style="margin: 0 -13px;"  height="40" /></a>
+				</p>
+				<p>
+					<a href="https://www.github.com" target="_blank"><img src="img/sponsors/github.png" style="margin: 0 -10px;" height="50" /></a>
+				</p>
+				<p>
+					<a href="https://www.digitalocean.com" target="_blank"><img src="img/sponsors/digitalocean.png"  height="40" /></a>
+				</p>
+				<p>
+					<a href="http://www.piktochart.com" target="_blank"><img src="img/sponsors/piktochart.png" style="margin: 8px 0;" height="45" /></a>
+				</p>
+				<p>
+					<br/>
+					If you're interested in supporting the web developer community as well, please <a href="mailto:sponsors@cssconf.asia?subject=CSSConf Sponsorship">write us a mail</a>!
+				</p>
+			</div>
 		</section>
 		<footer>
 			<p>
@@ -103,9 +154,9 @@
 	</section>
 	<nav>
 		<img src="assets/cssconfasia_icon.png" height="32" /><br/>
-		<a href="https://jsconfasia.wufoo.com/forms/cssconf-and-jsconfasia/">About</a> &nbsp; &#x2605; &nbsp;
-		<a href="https://jsconfasia.wufoo.com/forms/cssconf-and-jsconfasia/">Speakers</a> &nbsp; &#x2605; &nbsp;
-		<a href="mailto:sponsor@jsconf.asia">Sponsors</a> &nbsp; &#x2605; &nbsp;
+		<a href="#about">About</a> &nbsp; &#x2605; &nbsp;
+		<a href="#speakers">Speakers</a> &nbsp; &#x2605; &nbsp;
+		<a href="#sponsors">Sponsors</a> &nbsp; &#x2605; &nbsp;
 		<a href="http://twitter.com/cssconfasia">Get Updates</a>
 	</nav>
     <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.3.js"></script>
