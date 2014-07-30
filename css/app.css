@@ -47,7 +47,7 @@ a {
     padding: 12px 0;
     display: block;
     margin: 50px auto 0;
-    width: 360px;
+    width: 370px;
     text-decoration: none;
     box-shadow: 5px 5px 0 #e8b800, 4px 4px 0 #e8b800, 3px 3px 0 #e8b800, 2px 2px 0 #e8b800, 1px 1px 0 #e8b800;
     position: relative;
@@ -216,7 +216,7 @@ and (max-width: 600px) {
 }
 #intro .input input[type='submit'] {
 	left: 290px;
-	width: 70px;
+	width: 80px;
 	background: #c7950a;
 	color: #fff;
 	font-size: 15px;

@@ -46,8 +46,8 @@
 		<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" autofocus /><input type="submit" value="Send" /></span></div>
 		<div class="msg"><span></span></div>
 		<div class="menu">
-			<a href="#about">About</a> &nbsp; &#x2605; &nbsp;
 			<a href="#speakers">Speakers</a> &nbsp; &#x2605; &nbsp;
+			<a href="#about">About</a> &nbsp; &#x2605; &nbsp;
 			<a href="#sponsors">Sponsors</a> &nbsp; &#x2605; &nbsp;
 			<a href="http://twitter.com/cssconfasia">Get Updates</a>
 		</div>
@@ -71,23 +71,6 @@
 			<span>1 day - S$280</span>
 		</a>
 		</section>
-		<section id="about">
-			<h2>About</h2>
-			<p>
-			<i>CSSConf is where design meets developers to inspire, educate and entertain around building the world's most engaging user interfaces.</i>
-			</p>
-			<h3>We haz the Speakers, the Wifis, the foods, the parties...</h3>
-			<p>
-			...or what we consider the essentials for a great event. You just learn so much better when you're happy and connected.
-			</p>
-			<p>
-			Jimmy Monkey stands ready for 8 hours of non-stop, competitive brewing and pulling shots. They craft maybe the most sophisticated espresso based coffees in all of Singapore and will be running our café. But don't worry: It's not that the conference content will be tiring... ;-)
-			</p>
-			<h3>It's for you!</h3>
-			<p>
-			We want to make a community event that brings Southeast-Asia's best web designers together in an playful and informal environment. It's gonna be a great setting for learning and exchange and we can't wait to see you there!
-			</p>
-		</section>
 		<section id="speakers">
 			<h2>Speakers</h2>
 			<div class="speaker">
@@ -107,6 +90,28 @@
 			<p>
 				<br/>
 				We're gonna reveal more speakers as we approach the event, so <a href="http://twitter.com/cssconfasia">stay tuned</a>!
+			</p>
+			<a href="" class="button">
+				Get your ticket
+				<span>1 day - S$280</span>
+			</a>
+		</section>
+		<section id="about">
+			<h2>About</h2>
+			<p>
+			<i>CSSConf is where design meets developers to inspire, educate and entertain around building the world's most engaging user interfaces.</i>
+			</p>
+			<h3>We haz the Speakers, the Wifis, the foods, the parties...</h3>
+			<p>
+			...or what we consider the essentials for a great event. You just learn so much better when you're happy and connected.
+			</p>
+			<p>
+			<a href="http://www.jimmymonkey.com/" target="_blank"><img src="img/jimmy.png" style="float: right; margin: 0 -25px 0 20px;"height="138" /></a>
+			Jimmy Monkey stands ready for 8 hours of non-stop, competitive brewing and pulling shots. They craft maybe the most sophisticated espresso based coffees in all of Singapore and will be running our café. But don't worry: It's not that the conference content will be tiring... ;-)
+			</p>
+			<h3>It's for you!</h3>
+			<p>
+			We want to make a community event that brings Southeast-Asia's best web designers together in an playful and informal environment. It's gonna be a great setting for learning and exchange and we can't wait to see you there!
 			</p>
 			<a href="" class="button">
 				Get your ticket
@@ -143,6 +148,10 @@
 					If you're interested in supporting the web developer community as well, please <a href="mailto:sponsors@cssconf.asia?subject=CSSConf Sponsorship">write us a mail</a>!
 				</p>
 			</div>
+			<a href="" class="button">
+				Get your ticket
+				<span>1 day - S$280</span>
+			</a>
 		</section>
 		<footer>
 			<p>
@@ -157,8 +166,8 @@
 	</section>
 	<nav>
 		<img src="assets/cssconfasia_icon.png" height="48" /><br/>
-		<a href="#about">About</a> &nbsp; &#x2605; &nbsp;
 		<a href="#speakers">Speakers</a> &nbsp; &#x2605; &nbsp;
+		<a href="#about">About</a> &nbsp; &#x2605; &nbsp;
 		<a href="#sponsors">Sponsors</a> &nbsp; &#x2605; &nbsp;
 		<a href="http://twitter.com/cssconfasia">Get Updates</a>
 	</nav>
