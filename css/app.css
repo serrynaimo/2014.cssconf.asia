@@ -406,13 +406,14 @@ and (max-width: 600px) {
 }
 
 #body footer {
-    background: url(../img/skyline_mobile.jpg) 54% 100% no-repeat;
+    background: url(../img/skyline_mobile.jpg) 52% 100% no-repeat;
     padding-bottom: 110px;
 }
 
 #body footer p {
 	text-align: center;
 	color: #c7950a;
+    padding: 0;
 }
 
 #body footer p a {
