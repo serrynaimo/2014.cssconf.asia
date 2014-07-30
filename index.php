@@ -132,7 +132,7 @@
 			<div class="supporter">
 				<h3>The Supporters</h3>
 				<p>
-					<a href="https://about.redmart.com" target="_blank"><img src="img/sponsors/redmart.svg" style="margin: 0 -13px;"  height="40" /></a>
+					<a href="http://about.redmart.com" target="_blank"><img src="img/sponsors/redmart.svg" style="margin: 0 -13px;"  height="40" /></a>
 				</p>
 				<p>
 					<a href="https://www.github.com" target="_blank"><img src="img/sponsors/github.png" style="margin: 0 -10px;" height="50" /></a>
