@@ -107,7 +107,7 @@
 			</p>
 			<p>
 			<a href="http://www.jimmymonkey.com/" target="_blank"><img src="img/jimmy.png" style="float: right; margin: 0 -25px 0 20px;"height="138" /></a>
-			Jimmy Monkey stands ready for 8 hours of non-stop, competitive brewing and pulling shots. They craft maybe the most sophisticated espresso based coffees in all of Singapore and will be running our café. But don't worry: It's not that the conference content will be tiring... ;-)
+			Jimmy Monkey will be there for 8 hours of non-stop coffee brewing and pulling shots. They craft maybe the most sophisticated espresso based coffees in all of Singapore and will be running our café. But don't worry: It's not that the conference content will be tiring... ;-)
 			</p>
 			<h3>It's for you!</h3>
 			<p>
