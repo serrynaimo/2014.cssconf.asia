@@ -43,7 +43,7 @@
 	<section id="intro">
 	<form id="subscribeForm" action="http://2014.cssconf.asia/addsubscriber.php" method="get">
 		<div class="logo" style="opacity: 0;"><a href="http://facebook.com/cssconfasia"><img src="img/cssconfasia.png" alt="CSSConf.Asia 2014 Singapore" /></a></div>
-		<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" autofocus /><input type="submit" value="Send" /></span></div>
+		<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" /><input type="submit" value="Send" /></span></div>
 		<div class="msg"><span></span></div>
 		<div class="menu">
 			<a href="#speakers">Speakers</a> &nbsp; &#x2605; &nbsp;
@@ -111,7 +111,7 @@
 			</p>
 			<h3>It's for you!</h3>
 			<p>
-			We want to make a community event that brings Southeast-Asia's best web designers together in an playful and informal environment. It's gonna be a great setting for learning and exchange and we can't wait to see you there!
+			Together with <a href="http://2014.jsconf.asia">JSConf</a>, we want to make community events that brings Southeast-Asia's best web designers together in an playful and informal environment. It's gonna be a great setting for learning and exchange and we can't wait to see you there!
 			</p>
 			<a href="" class="button">
 				Get your ticket
@@ -123,7 +123,7 @@
 			<div class="sponsor">
 				<h3>The boss</h3>
 				<p>
-					<a href="http://www.pocketmath.com" target="_blank"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
+					<a href="http://www.pocketmath.com" target="_blank" style="background: #fff; display: inline-block; padding: 12px 12px 5px;"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
 				</p>
 				<p>
 					PocketMath is one of the first, and leading, mobile advertising platforms for buying real-time media across apps, games and mobile websites. And they're our generous head sponsor! Thanks PocketMath!
@@ -131,21 +131,17 @@
 			</div>
 			<div class="supporter">
 				<h3>The Supporters</h3>
+				<!--<p>
+					<a href="http://about.redmart.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 12px 0;"><img src="img/sponsors/redmart.svg" style="margin: 0 -13px;"  height="40" /></a>
+				</p>//-->
 				<p>
-					<a href="http://about.redmart.com" target="_blank"><img src="img/sponsors/redmart.svg" style="margin: 0 -13px;"  height="40" /></a>
+					<a href="https://www.github.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 12px 0;"><img src="img/sponsors/github.png" style="margin: 0 -10px;" height="50" /></a>
 				</p>
 				<p>
-					<a href="https://www.github.com" target="_blank"><img src="img/sponsors/github.png" style="margin: 0 -10px;" height="50" /></a>
+					<a href="https://www.digitalocean.com" target="_blank" style="background: #fff; display: inline-block; padding: 12px 12px 8px;"><img src="img/sponsors/digitalocean.png"  height="40" /></a>
 				</p>
 				<p>
-					<a href="https://www.digitalocean.com" target="_blank"><img src="img/sponsors/digitalocean.png"  height="40" /></a>
-				</p>
-				<p>
-					<a href="http://www.piktochart.com" target="_blank"><img src="img/sponsors/piktochart.png" style="margin: 8px 0;" height="45" /></a>
-				</p>
-				<p>
-					<br/>
-					If you're interested in supporting the web developer community as well, please <a href="mailto:sponsors@cssconf.asia?subject=CSSConf Sponsorship">write us a mail</a>!
+					<a href="http://www.piktochart.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 12px 0;"><img src="img/sponsors/piktochart.png" style="margin: 8px 0;" height="42" /></a>
 				</p>
 			</div>
 			<a href="" class="button">
