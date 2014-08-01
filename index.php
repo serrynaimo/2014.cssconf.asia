@@ -61,7 +61,10 @@
 			19th November 2014
 		</p>
 		<p>
-			CSSConf.Asia 2014 Singapore is part of<br/>Asia's most influential web developer festival.<br/><br/>
+			<a href="http://2014.devfest.asia"><img src="img/devfest.png" height="100" alt="Singapore DevFest.Asia 2014"/></a>
+		</p>
+		<p>
+			CSSConf.Asia is proudly part of Asia's first<br/> community organized web developer festival.<br/><br/>
 			A Nerdherd Pte. Ltd. event<br/>
 			<a class="terms" href="terms.html">Terms &amp; Conditions</a><br/><br/>
 		</p>
