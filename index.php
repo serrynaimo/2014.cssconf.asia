@@ -43,7 +43,7 @@
 	<section id="intro">
 	<form id="subscribeForm" action="http://2014.cssconf.asia/addsubscriber.php" method="get">
 		<div class="logo" style="opacity: 0;"><a href="http://facebook.com/cssconfasia"><img src="img/cssconfasia.png" alt="CSSConf.Asia 2014 Singapore" /></a></div>
-		<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" /><input type="submit" value="Send" /></span></div>
+		<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" /><input type="submit" value="Subscribe" /></span></div>
 		<div class="msg"><span></span></div>
 		<div class="menu">
 			<a href="#speakers">Speakers</a> &nbsp; &#x2605; &nbsp;

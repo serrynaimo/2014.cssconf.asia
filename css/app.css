@@ -194,8 +194,8 @@ and (max-width: 600px) {
 
 #intro .input {
 	bottom: 65px;
-	width: 360px;
-	margin: 0 -190px;
+	width: 380px;
+	margin: 0 -200px;
 	left: 50%;
 }
 #intro .input span {
@@ -217,7 +217,7 @@ and (max-width: 600px) {
 }
 #intro .input input[type='submit'] {
 	left: 290px;
-	width: 80px;
+	width: 100px;
 	background: #c7950a;
 	color: #fff;
 	font-size: 15px;
