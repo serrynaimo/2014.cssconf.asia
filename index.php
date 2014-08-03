@@ -113,6 +113,10 @@
 			<p>
 			Together with <a href="http://2014.jsconf.asia">JSConf</a>, we want to make community events that brings Southeast-Asia's best web designers together in an playful and informal environment. It's gonna be a great setting for learning and exchange and we can't wait to see you there!
 			</p>
+			<p align="right">
+				<a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp;
+				<a href="https://twitter.com/melewi" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a>
+			</p>
 			<a href="" class="button">
 				Get your ticket
 				<span>1 day - S$280</span>
@@ -131,9 +135,9 @@
 			</div>
 			<div class="supporter">
 				<h3>The Supporters</h3>
-				<!--<p>
+				<p>
 					<a href="http://about.redmart.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 12px 0;"><img src="img/sponsors/redmart.svg" style="margin: 0 -13px;"  height="40" /></a>
-				</p>//-->
+				</p>
 				<p>
 					<a href="https://www.github.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 12px 0;"><img src="img/sponsors/github.png" style="margin: 0 -10px;" height="50" /></a>
 				</p>
