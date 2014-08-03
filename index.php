@@ -155,6 +155,10 @@
 			</p>
 			<p>
 				CSSConf.Asia is proudly part of Asia's first<br/> community organized web developer festival.<br/><br/>
+
+				Checkout CSSConf in the<br/><a href="http://cssconf.com">United States</a>, <a href="http://cssconf.eu">Europe</a> and <a href="http://cssconf.com.au">Australia</a>
+
+				<br/><br/><br/>
 				A Nerdherd Pte. Ltd. event<br/>
 				<a class="terms" href="terms.html">Terms &amp; Conditions</a><br/><br/>
 			</p>
