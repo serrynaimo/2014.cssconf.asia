@@ -128,7 +128,7 @@
 				<a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
 				<a href="https://twitter.com/melewi" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a>
 			</p>
-			<a href="" class="button">
+			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
 				Get your ticket
 				<span>1 day - S$280</span>
 			</a>
