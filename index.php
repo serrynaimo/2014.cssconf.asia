@@ -159,6 +159,10 @@
 				<p>
 					<a href="http://www.piktochart.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 12px 0;"><img src="img/sponsors/piktochart.png" style="margin: 8px 0;" height="42" /></a>
 				</p>
+				<p>
+					<br/>
+					If you're interested in supporting the web developer community as well, please <a href="mailto:sponsors@cssconf.asia?subject=CSSConf Sponsorship">write us a mail</a>!
+				</p>
 			</div>
 			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
 				Get your ticket
