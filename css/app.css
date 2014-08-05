@@ -63,6 +63,15 @@ a {
 }
 
 
+#body .button + span {
+	display: block;
+	text-align: center;
+	color: #c7950a;
+	font-size: .8em;
+	padding: 7px 0;
+}
+
+
 #background {
   position: absolute;
   top: 50%;

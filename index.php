@@ -70,8 +70,9 @@
 		<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
 			Get your ticket
 			<span>1 day - S$280</span>
-		</a><br/>
+		</a>
 		<span>Starts 12th of August, 3pm SGT</span>
+		<br/>
 		</section>
 		<section id="speakers">
 			<h2>Speakers</h2>
@@ -104,6 +105,7 @@
 				Get your ticket
 				<span>1 day - S$280</span>
 			</a>
+			<span>Starts 12th of August, 3pm SGT</span>
 		</section>
 		<section id="about">
 			<h2>About</h2>
@@ -130,6 +132,7 @@
 				Get your ticket
 				<span>1 day - S$280</span>
 			</a>
+			<span>Starts 12th of August, 3pm SGT</span>
 		</section>
 		<section id="sponsors">
 			<h2>Sponsors</h2>
@@ -161,6 +164,7 @@
 				Get your ticket
 				<span>1 day - S$280</span>
 			</a>
+			<span>Starts 12th of August, 3pm SGT</span>
 		</section>
 		<footer>
 			<p>
