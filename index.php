@@ -66,7 +66,7 @@
 			sponsored by<br/>
 			<a href="http://www.pocketmath.com" target="_blank"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
 		</p>
-		<a href="" class="button">
+		<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
 			Get your ticket
 			<span>1 day - S$280</span>
 		</a>
@@ -87,18 +87,18 @@
 					Kushagra is a front-end developer on VWO, a Wingify product, a CSS freak and author of Hint.css. He likes to create things that use existing concepts in new ways. Also sometimes called as the PJ king (beware!), he likes to beatbox and doodle sketches in spare time. 
 				</p>
 			</div>
-			<div class="speaker">
+			<!--<div class="speaker">
 				<a href="https://twitter.com/ricostacruz" target="_blank"><img src="img/speakers/ricostacruz.jpg" /></a>
 				<h3>Rico Sta. Cruz <a href="https://twitter.com/ricostacruz" target="_blank">@ricostacruz</a></h3>
 				<p>
 					Rico is a Ruby, JavaScript developer and CSS afficionado from the Philippines whose passion lies in building great web applications and slick user interfaces. He is the co-founder of a small web development team in Manila called Nadarei, the author of the Backbone.js guide Backbone Patterns among other open-source projects.
 				</p>
-			</div>
+			</div>//-->
 			<p>
 				<br/>
 				We're gonna reveal more speakers as we approach the event, so <a href="http://twitter.com/cssconfasia">stay tuned</a>!
 			</p>
-			<a href="" class="button">
+			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
 				Get your ticket
 				<span>1 day - S$280</span>
 			</a>
@@ -121,7 +121,7 @@
 			Together with <a href="http://2014.jsconf.asia">JSConf</a>, we want to make community events that brings Southeast-Asia's best web designers together in an playful and informal environment. It's gonna be a great setting for learning and exchange and we can't wait to see you there!
 			</p>
 			<p align="right">
-				<a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp;
+				<a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
 				<a href="https://twitter.com/melewi" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a>
 			</p>
 			<a href="" class="button">
@@ -155,7 +155,7 @@
 					<a href="http://www.piktochart.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 12px 0;"><img src="img/sponsors/piktochart.png" style="margin: 8px 0;" height="42" /></a>
 				</p>
 			</div>
-			<a href="" class="button">
+			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
 				Get your ticket
 				<span>1 day - S$280</span>
 			</a>
