@@ -81,6 +81,13 @@
 				</p>
 			</div>
 			<div class="speaker">
+				<a href="https://twitter.com/chinchang457" target="_blank"><img src="img/speakers/kushagra.jpg" /></a>
+				<h3>Kushagra Gour <a href="https://twitter.com/chinchang457" target="_blank">@chinchang457</a></h3>
+				<p>
+					Kushagra is a front-end developer on VWO, a Wingify product, a CSS freak and author of Hint.css. He likes to create things that use existing concepts in new ways. Also sometimes called as the PJ king (beware!), he likes to beatbox and doodle sketches in spare time. 
+				</p>
+			</div>
+			<div class="speaker">
 				<a href="https://twitter.com/ricostacruz" target="_blank"><img src="img/speakers/ricostacruz.jpg" /></a>
 				<h3>Rico Sta. Cruz <a href="https://twitter.com/ricostacruz" target="_blank">@ricostacruz</a></h3>
 				<p>
