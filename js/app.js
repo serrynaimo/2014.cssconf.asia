@@ -48,3 +48,16 @@ $("#subscribeForm .msg").click(function() {
 setTimeout(function() {
 	$("body").removeClass("loading");
 }, 1400);
+
+var menuVisible = false
+var fromTop = parseInt($('.menu').offset().top, 10) - 60;
+$(window).on("scroll touchmove", function (e) {
+	if(window.pageYOffset > fromTop && !menuVisible) {
+		$("body").addClass("visible");
+		menuVisible = true;
+	}
+	else if(window.pageYOffset <= fromTop && menuVisible) {
+		$("body").removeClass("visible");
+		menuVisible = false;
+	}
+});
