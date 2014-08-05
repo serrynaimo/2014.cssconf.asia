@@ -46,8 +46,8 @@
 		<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" /><input type="submit" value="Subscribe" /></span></div>
 		<div class="msg"><span></span></div>
 		<div class="menu">
-			<a href="#speakers">Speakers</a> &nbsp; &#x2605; &nbsp;
 			<a href="#about">About</a> &nbsp; &#x2605; &nbsp;
+			<a href="#speakers">Speakers</a> &nbsp; &#x2605; &nbsp;
 			<a href="#sponsors">Sponsors</a> &nbsp; &#x2605; &nbsp;
 			<a href="http://twitter.com/cssconfasia">Get Updates</a>
 		</div>
@@ -73,6 +73,33 @@
 		</a>
 		<span>Starts 12th of August, 3pm SGT</span>
 		<br/>
+		</section>
+		<section id="about">
+			<h2>About</h2>
+			<p>
+			<i>CSSConf is where design meets developers to inspire, educate and entertain around building the world's most engaging user interfaces.</i>
+			</p>
+			<h3>We haz the Speakers, the Wifis, the foods, the parties...</h3>
+			<p>
+			...or what we consider the essentials for a great event. You just learn so much better when you're happy and connected.
+			</p>
+			<p>
+			<a href="http://www.jimmymonkey.com/" target="_blank"><img src="img/jimmy.png" style="float: right; margin: 0 -25px 0 20px;"height="138" /></a>
+			Jimmy Monkey will be there for 8 hours of non-stop coffee brewing and pulling shots. They craft maybe the most sophisticated espresso based coffees in all of Singapore and will be running our café. But don't worry: It's not that the conference content will be tiring... ;-)
+			</p>
+			<h3>It's for you!</h3>
+			<p>
+			Together with <a href="http://2014.jsconf.asia">JSConf</a>, we want to make community events that brings Southeast-Asia's best web designers together in an playful and informal environment. It's gonna be a great setting for learning and exchange and we can't wait to see you there!
+			</p>
+			<p align="right">
+				<a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
+				<a href="https://twitter.com/melewi" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a>
+			</p>
+			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
+				Get your ticket
+				<span>1 day - S$280</span>
+			</a>
+			<span>Starts 12th of August, 3pm SGT</span>
 		</section>
 		<section id="speakers">
 			<h2>Speakers</h2>
@@ -100,33 +127,6 @@
 			<p>
 				<br/>
 				We're gonna reveal more speakers as we approach the event, so <a href="http://twitter.com/cssconfasia">stay tuned</a>!
-			</p>
-			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
-				Get your ticket
-				<span>1 day - S$280</span>
-			</a>
-			<span>Starts 12th of August, 3pm SGT</span>
-		</section>
-		<section id="about">
-			<h2>About</h2>
-			<p>
-			<i>CSSConf is where design meets developers to inspire, educate and entertain around building the world's most engaging user interfaces.</i>
-			</p>
-			<h3>We haz the Speakers, the Wifis, the foods, the parties...</h3>
-			<p>
-			...or what we consider the essentials for a great event. You just learn so much better when you're happy and connected.
-			</p>
-			<p>
-			<a href="http://www.jimmymonkey.com/" target="_blank"><img src="img/jimmy.png" style="float: right; margin: 0 -25px 0 20px;"height="138" /></a>
-			Jimmy Monkey will be there for 8 hours of non-stop coffee brewing and pulling shots. They craft maybe the most sophisticated espresso based coffees in all of Singapore and will be running our café. But don't worry: It's not that the conference content will be tiring... ;-)
-			</p>
-			<h3>It's for you!</h3>
-			<p>
-			Together with <a href="http://2014.jsconf.asia">JSConf</a>, we want to make community events that brings Southeast-Asia's best web designers together in an playful and informal environment. It's gonna be a great setting for learning and exchange and we can't wait to see you there!
-			</p>
-			<p align="right">
-				<a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
-				<a href="https://twitter.com/melewi" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a>
 			</p>
 			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
 				Get your ticket
@@ -187,8 +187,8 @@
 	</section>
 	<nav>
 		<img src="assets/cssconfasia_icon.png" height="48" /><br/>
-		<a href="#speakers">Speakers</a> &nbsp; &#x2605; &nbsp;
 		<a href="#about">About</a> &nbsp; &#x2605; &nbsp;
+		<a href="#speakers">Speakers</a> &nbsp; &#x2605; &nbsp;
 		<a href="#sponsors">Sponsors</a> &nbsp; &#x2605; &nbsp;
 		<a href="http://twitter.com/cssconfasia">Get Updates</a>
 	</nav>
