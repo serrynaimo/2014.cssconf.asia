@@ -70,7 +70,8 @@
 		<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
 			Get your ticket
 			<span>1 day - S$280</span>
-		</a>
+		</a><br/>
+		<span>Starts 12th of August, 3pm SGT</span>
 		</section>
 		<section id="speakers">
 			<h2>Speakers</h2>
