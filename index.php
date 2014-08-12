@@ -48,7 +48,6 @@
     			Get your ticket
     			<span>1 day - S$280</span>
     		</a>
-    		<span>Starts 12th of August, 3pm SGT</span>
     	    </p>
     		<div class="menu">
     			<a href="#about">About</a> &nbsp; &#x2605; &nbsp;
@@ -130,7 +129,6 @@
 				Get your ticket
 				<span>1 day - S$280</span>
 			</a>
-			<span>Starts 12th of August, 3pm SGT</span>
 		</section>
 		<section id="sponsors">
 			<h2>Sponsors</h2>
@@ -166,7 +164,6 @@
 				Get your ticket
 				<span>1 day - S$280</span>
 			</a>
-			<span>Starts 12th of August, 3pm SGT</span>
 		</section>
 		<footer>
 			<p>

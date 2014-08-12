@@ -203,13 +203,6 @@ and (max-width: 600px) {
    	font-size: .8rem;
 }
 
-
-#intro p > span {
-    position: relative;
-    top: 7px;
-}
-
-
 #intro .menu {
 	font-family: 'Doppio One';
 	bottom: -30px;
