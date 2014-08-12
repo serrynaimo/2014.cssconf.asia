@@ -14,7 +14,7 @@
 	<meta charset="UTF-8">
 	<title>CSSConf.Asia Singapore 2014</title>
 	<link href='http://fonts.googleapis.com/css?family=Doppio+One|Open+Sans|Sanchez|Great+Vibes' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" type="text/css" href="css/app.css" />
+	<link rel="stylesheet" type="text/css" href="css/app1.css" />
 	<link rel="shortcut icon" href="favicon.png" >
 	<?php if(!strpos($_SERVER['HTTP_USER_AGENT'],'iPad')) { ?>
 	<meta name="viewport" content="width=500, user-scalable=no" />
