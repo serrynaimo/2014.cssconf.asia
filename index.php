@@ -41,17 +41,22 @@
 		</div></div>
 	</section>
 	<section id="intro">
-	<form id="subscribeForm" action="http://2014.cssconf.asia/addsubscriber.php" method="get">
-		<div class="logo" style="opacity: 0;"><a href="http://facebook.com/cssconfasia"><img src="img/cssconfasia.png" alt="CSSConf.Asia 2014 Singapore" /></a></div>
-		<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" /><input type="submit" value="Subscribe" /></span></div>
-		<div class="msg"><span></span></div>
-		<div class="menu">
-			<a href="#about">About</a> &nbsp; &#x2605; &nbsp;
-			<a href="#speakers">Speakers</a> &nbsp; &#x2605; &nbsp;
-			<a href="#sponsors">Sponsors</a> &nbsp; &#x2605; &nbsp;
-			<a href="http://twitter.com/cssconfasia">Get Updates</a>
-		</div>
-	</form>
+	    <div>
+    	    <div class="logo" style="opacity: 0;"><a href="http://facebook.com/cssconfasia"><img src="img/cssconfasia.png" alt="CSSConf.Asia 2014 Singapore" /></a></div>
+    	    <p>
+    		<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
+    			Get your ticket
+    			<span>1 day - S$280</span>
+    		</a>
+    		<span>Starts 12th of August, 3pm SGT</span>
+    	    </p>
+    		<div class="menu">
+    			<a href="#about">About</a> &nbsp; &#x2605; &nbsp;
+    			<a href="#speakers">Speakers</a> &nbsp; &#x2605; &nbsp;
+    			<a href="#sponsors">Sponsors</a> &nbsp; &#x2605; &nbsp;
+    			<a href="http://twitter.com/cssconfasia">Get Updates</a>
+    		</div>
+	    </div>
 	</section>
 	<section id="body">
 		<section id="info">
@@ -67,12 +72,6 @@
 			sponsored by<br/>
 			<a href="http://www.pocketmath.com" target="_blank"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
 		</p>
-		<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
-			Get your ticket
-			<span>1 day - S$280</span>
-		</a>
-		<span>Starts 12th of August, 3pm SGT</span>
-		<br/>
 		</section>
 		<section id="about">
 			<h2>About</h2>
@@ -95,11 +94,10 @@
 				<a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
 				<a href="https://twitter.com/melewi" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a>
 			</p>
-			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
-				Get your ticket
-				<span>1 day - S$280</span>
-			</a>
-			<span>Starts 12th of August, 3pm SGT</span>
+        	<form id="subscribeForm" action="http://2014.cssconf.asia/addsubscriber.php" method="get">
+        		<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" /><input type="submit" value="Subscribe" /></span></div>
+        		<div class="msg"><span></span></div>
+        	</form>
 		</section>
 		<section id="speakers">
 			<h2>Speakers</h2>

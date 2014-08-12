@@ -154,24 +154,22 @@ and (max-width: 600px) {
   height: 700px;
 }
 
-#intro > form {
+#intro > div {
 	position: relative;
 	height: 660px;
 	margin: -330px 0;
 	top: 50%;
-	font-size: 1em;
 }
 
-
-#intro > form > * {
+#intro > div > * {
 	text-align: center;
-	font-family: 'Doppio One';
 	color: #c7950a;
 	position: absolute;
 	left: 50%;
 	width: 500px;
 	margin: 0 -250px;
 }
+
 
 #intro .logo img {
 	width: 280px;
@@ -200,16 +198,44 @@ and (max-width: 600px) {
 	opacity: 0 !important;
 }
 
-#intro .input {
+#intro p {
+    bottom: 10px;
+   	font-size: .8rem;
+}
+
+
+#intro p > span {
+    position: relative;
+    top: 7px;
+}
+
+
+#intro .menu {
+	font-family: 'Doppio One';
+	bottom: -30px;
+	font-size: 1rem;
+	text-transform: uppercase;
+}
+
+
+
+#subscribeForm {
+    position: relative;
+    margin: 40px auto 90px;
+    width: 370px;
+}
+
+
+#subscribeForm .input {
 	bottom: 65px;
-	width: 380px;
+	width: 370px;
 	margin: 0 -200px;
 	left: 50%;
 }
-#intro .input span {
+#subscribeForm .input span {
 	display: block;
 }
-#intro .input input {
+#subscribeForm .input input {
   position: absolute;
   left: 0;
   font-size: 20px;
@@ -218,13 +244,13 @@ and (max-width: 600px) {
   font-family: 'Open Sans';
   border: 0;
   outline: 0;
-  width: 260px;
+  width: 250px;
   height: 40px;
   border-radius: 4px 0 0 4px;
   box-shadow: 5px 5px 0 #e8b800, 4px 4px 0 #e8b800, 3px 3px 0 #e8b800, 2px 2px 0 #e8b800, 1px 1px 0 #e8b800;
 }
-#intro .input input[type='submit'] {
-	left: 290px;
+#subscribeForm .input input[type='submit'] {
+	left: 280px;
 	width: 100px;
 	background: #c7950a;
 	color: #fff;
@@ -234,10 +260,10 @@ and (max-width: 600px) {
 	-webkit-appearance: none;
 	-moz-appearance: none;
 }
-#intro .input input[type='submit']:hover {
+#subscribeForm .input input[type='submit']:hover {
 	background: #c7950a;
 }
-#intro .load .input input[type='submit'] {
+#subscribeForm.load .input input[type='submit'] {
 	background-image: -webkit-gradient(linear, 0 0, 100% 100%,color-stop(.25, rgba(0, 0, 0, .1)),color-stop(.25, transparent), color-stop(.5, transparent),color-stop(.5, rgba(0, 0, 0, .1)),color-stop(.75, rgba(0, 0, 0, .1)),color-stop(.75, transparent), to(transparent)	   );
 	background-image: -webkit-linear-gradient(-45deg,rgba(0, 0, 0, .1) 25%,transparent 25%,transparent 50%,rgba(0, 0, 0, .1) 50%,rgba(0, 0, 0, .1) 75%,transparent 75%,transparent	   );
 	background-image: -moz-linear-gradient(-45deg,rgba(0, 0, 0, .1) 25%,transparent 25%,transparent 50%,rgba(0, 0, 0, .1) 50%,rgba(0, 0, 0, .1) 75%,transparent 75%,transparent	   );
@@ -255,21 +281,18 @@ and (max-width: 600px) {
 	animation: loading 2s infinite linear;
 }
 
-#intro .msg {
-	bottom: 0px;
-	font-size: 1em;
+#subscribeForm .msg {
+    position: absolute;
+    top: 50px;
+	font-family: 'Doppio One';
+	text-transform: uppercase;
 }
-#intro .msg span {
+#subscribeForm .msg span {
 	display: block;
 	color: #fff;
 	font-size: .9em;
 }
 
-#intro .menu {
-	bottom: -30px;
-	font-size: 1rem;
-	text-transform: uppercase;
-}
 
 #body {
 	position: absolute;
