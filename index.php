@@ -91,7 +91,7 @@
 			</p>
 			<p align="right">
 				<a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
-				<a href="https://twitter.com/melewi" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a>
+				<a href="https://twitter.com/thedesignnomad" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a>
 			</p>
         	<form id="subscribeForm" action="http://2014.cssconf.asia/addsubscriber.php" method="get">
         		<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" /><input type="submit" value="Subscribe" /></span></div>
