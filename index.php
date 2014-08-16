@@ -132,7 +132,7 @@
 			</div>//-->
 			<p>
 				<br/>
-				We're gonna reveal more speakers as we approach the event, so <a href="http://twitter.com/cssconfasia">stay tuned</a>!
+				We're gonna reveal all our 10 speakers as we approach the event, so <a href="http://twitter.com/cssconfasia">stay tuned</a>!
 			</p>
 			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
 				Get your ticket
