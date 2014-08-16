@@ -101,6 +101,14 @@
 		<section id="speakers">
 			<h2>Speakers</h2>
 			<div class="speaker">
+				<a href="https://twitter.com/mathias" target="_blank"><img src="img/speakers/mathias.jpg" /></a>
+				<h3>Mathias Bynens <a href="https://twitter.com/mathias" target="_blank">@mathias</a></h3>
+				<p>
+					Mathias is a Belgian web standards freak. He likes HTML, CSS, JavaScript, Unicode, performance,
+					and security. At Opera Software he’s a member of the Developer Relations team.
+				</p>
+			</div>
+			<div class="speaker">
 				<a href="https://twitter.com/benschwarz" target="_blank"><img src="img/speakers/benschwarz.jpg" /></a>
 				<h3>Ben Schwarz <a href="https://twitter.com/benschwarz" target="_blank">@benschwarz</a></h3>
 				<p>
@@ -114,6 +122,7 @@
 					Kushagra is a front-end developer on VWO, a Wingify product, a CSS freak and author of Hint.css. He likes to create things that use existing concepts in new ways. Also sometimes called as the PJ king (beware!), he likes to beatbox and doodle sketches in spare time. 
 				</p>
 			</div>
+
 			<!--<div class="speaker">
 				<a href="https://twitter.com/ricostacruz" target="_blank"><img src="img/speakers/ricostacruz.jpg" /></a>
 				<h3>Rico Sta. Cruz <a href="https://twitter.com/ricostacruz" target="_blank">@ricostacruz</a></h3>
