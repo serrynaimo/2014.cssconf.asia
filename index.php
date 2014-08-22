@@ -101,6 +101,14 @@
 		<section id="speakers">
 			<h2>Speakers</h2>
 			<div class="speaker">
+				<a href="https://twitter.com/fox" target="_blank"><img src="img/speakers/karolina.jpg" /></a>
+				<h3>Karolina Szczur <a href="https://twitter.com/fox" target="_blank">@fox</a></h3>
+				<p>
+					Karolina is a designer, developer, photographer and wannabe writer working with her friends at &amp;yet.
+					She's an editor at Smashing Magazine and Open Source fan. She owns a cat and an excessive amount of books on typography.
+				</p>
+			</div>
+			<div class="speaker">
 				<a href="https://twitter.com/mathias" target="_blank"><img src="img/speakers/mathias.jpg" /></a>
 				<h3>Mathias Bynens <a href="https://twitter.com/mathias" target="_blank">@mathias</a></h3>
 				<p>
@@ -119,7 +127,7 @@
 				<a href="https://twitter.com/chinchang457" target="_blank"><img src="img/speakers/kushagra.jpg" /></a>
 				<h3>Kushagra Gour <a href="https://twitter.com/chinchang457" target="_blank">@chinchang457</a></h3>
 				<p>
-					Kushagra is a front-end developer on VWO, a Wingify product, a CSS freak and author of Hint.css. He likes to create things that use existing concepts in new ways. Also sometimes called as the PJ king (beware!), he likes to beatbox and doodle sketches in spare time. 
+					Kushagra is a front-end developer on VWO, a Wingify product, a CSS freak and author of Hint.css. He likes to create things that use existing concepts in new ways. Also sometimes called as the PJ king (beware!), he likes to beatbox and doodle sketches in spare time.
 				</p>
 			</div>
 
