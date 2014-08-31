@@ -28,7 +28,7 @@
 	<meta name="title" content="JSConf.Asia Singapore 2014"/>
 	<meta name="description" content="Bridging web design and implementation. 19th Nov 2014, Amara Sanctuary, Sentosa, Singapore. Follow us on Twitter @cssconfasia"/>
 </head>
-<body class="loading">
+<body class="loading <?php if(strpos($_SERVER['HTTP_USER_AGENT'], 'Chrome/37') !== false) { echo "notsupported"; } ?>">
 	<section id="background"></section>
 	<section id="beams" style="opacity: 0;">
 		<div id="beam1"><div class="beam">
@@ -117,6 +117,13 @@
 				</p>
 			</div>
 			<div class="speaker">
+				<a href="https://twitter.com/ricostacruz" target="_blank"><img src="img/speakers/ricostacruz.jpg" /></a>
+				<h3>Rico Sta. Cruz <a href="https://twitter.com/ricostacruz" target="_blank">@ricostacruz</a></h3>
+				<p>
+					Rico is a Ruby/JS developer and CSS afficionado from the Philippines whose passion lies in building great web applications and slick user interfaces. He is the co-founder of a small web development team in Manila called Nadarei, a coding book author and maintains plenty of open-source projects.
+				</p>
+			</div>
+			<div class="speaker">
 				<a href="https://twitter.com/benschwarz" target="_blank"><img src="img/speakers/benschwarz.jpg" /></a>
 				<h3>Ben Schwarz <a href="https://twitter.com/benschwarz" target="_blank">@benschwarz</a></h3>
 				<p>
@@ -130,14 +137,6 @@
 					Kushagra is a front-end developer on VWO, a Wingify product, a CSS freak and author of Hint.css. He likes to create things that use existing concepts in new ways. Also sometimes called as the PJ king (beware!), he likes to beatbox and doodle sketches in spare time.
 				</p>
 			</div>
-
-			<!--<div class="speaker">
-				<a href="https://twitter.com/ricostacruz" target="_blank"><img src="img/speakers/ricostacruz.jpg" /></a>
-				<h3>Rico Sta. Cruz <a href="https://twitter.com/ricostacruz" target="_blank">@ricostacruz</a></h3>
-				<p>
-					Rico is a Ruby, JavaScript developer and CSS afficionado from the Philippines whose passion lies in building great web applications and slick user interfaces. He is the co-founder of a small web development team in Manila called Nadarei, the author of the Backbone.js guide Backbone Patterns among other open-source projects.
-				</p>
-			</div>//-->
 			<p>
 				<br/>
 				We're gonna reveal all our 10 speakers as we approach the event, so <a href="http://twitter.com/cssconfasia">stay tuned</a>!

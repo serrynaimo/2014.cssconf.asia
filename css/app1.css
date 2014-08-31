@@ -95,7 +95,7 @@ and (min-width: 601px) {
 		-webkit-transition: all 1s ease-in;
 		opacity: 1 !important;
 	}
-	.loading #beams {
+	.loading #beams, .notsupported #beams {
 		opacity: 0 !important;
 	}
 
