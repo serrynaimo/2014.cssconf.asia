@@ -134,6 +134,19 @@
 					design, testing and biking.
 				</p>
 			</div>
+			<!--
+			<div class="speaker">
+				<a href="https://twitter.com/xmlilley" target="_blank"><img src="img/speakers/christian.jpg" /></a>
+				<h3>Christian Lilley <a href="https://twitter.com/xmlilley" target="_blank">@xmlilley</a></h3>
+				<p>
+					Christian is a UI Architect at McKinsey Digital Labs and turns theoretical
+					business-y stuff into real useful blinky-lights.
+					He digs rapid-prototyping with AngularJS, agile
+					and co-founded the Data Visualization NY meetup. Now he lives in KL, whishing there was
+					better GeoViz to find the best hawker stalls.
+				</p>
+			</div>
+			//-->
 			<div class="speaker">
 				<a href="https://twitter.com/benschwarz" target="_blank"><img src="img/speakers/benschwarz.jpg" /></a>
 				<h3>Ben Schwarz <a href="https://twitter.com/benschwarz" target="_blank">@benschwarz</a></h3>
