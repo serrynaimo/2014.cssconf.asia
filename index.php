@@ -14,7 +14,7 @@
 	<meta charset="UTF-8">
 	<title>CSSConf.Asia Singapore 2014</title>
 	<link href='http://fonts.googleapis.com/css?family=Doppio+One|Open+Sans|Sanchez|Great+Vibes' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" type="text/css" href="css/app1.css" />
+	<link rel="stylesheet" type="text/css" href="css/app.css" />
 	<link rel="shortcut icon" href="favicon.png" >
 	<?php if(!strpos($_SERVER['HTTP_USER_AGENT'],'iPad')) { ?>
 	<meta name="viewport" content="width=500, user-scalable=no" />
@@ -28,7 +28,7 @@
 	<meta name="title" content="JSConf.Asia Singapore 2014"/>
 	<meta name="description" content="Bridging web design and implementation. 19th Nov 2014, Amara Sanctuary, Sentosa, Singapore. Follow us on Twitter @cssconfasia"/>
 </head>
-<body class="loading <?php if(strpos($_SERVER['HTTP_USER_AGENT'], 'Chrome/37') !== false) { echo "notsupported"; } ?>">
+<body class="loading">
 	<section id="background"></section>
 	<section id="beams" style="opacity: 0;">
 		<div id="beam1"><div class="beam">
@@ -121,6 +121,17 @@
 				<h3>Rico Sta. Cruz <a href="https://twitter.com/ricostacruz" target="_blank">@ricostacruz</a></h3>
 				<p>
 					Rico is a Ruby/JS developer and CSS afficionado from the Philippines whose passion lies in building great web applications and slick user interfaces. He is the co-founder of a small web development team in Manila called Nadarei, a coding book author and maintains plenty of open-source projects.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/MsFionaTay" target="_blank"><img src="img/speakers/fiona.jpg" /></a>
+				<h3>Fiona Tay <a href="https://twitter.com/MsFionaTay" target="_blank">@msfionatay</a></h3>
+				<p>
+					Fiona is an engineer on the Core Web team at Airbnb, where she builds
+					tooling for the web platform. She has previously worked on rolling out
+					an internal OOCSS framework across airbnb.com, scaling email
+					infrastructure, and making airbnb.com mobile friendly. She likes
+					design, testing and biking.
 				</p>
 			</div>
 			<div class="speaker">

@@ -93,9 +93,9 @@ and (min-width: 601px) {
 		left: 50%;
 		margin: -35px 0 0 -560px;
 		-webkit-transition: all 1s ease-in;
-		opacity: 1 !important;
+		opacity: .99 !important;
 	}
-	.loading #beams, .notsupported #beams {
+	.loading #beams {
 		opacity: 0 !important;
 	}
 
@@ -109,22 +109,19 @@ and (min-width: 601px) {
 		-webkit-transform-origin: 240px 0;
 	}
 
-	#beam2 {
-		position: absolute;
+	#beam2 .beam {
 		left: -80px;
-		top: 10px;
+        top: 10px;
 	}
 
-	#beam3 {
-		position: absolute;
-		left: -160px;
-		top: 24px;
+	#beam3 .beam {
+	   left: -160px;
+       top: 24px;
 	}
 
-	#beam4 {
-		position: absolute;
-		left: -220px;
-		top: 40px;
+	#beam4 .beam {
+       left: -220px;
+       top: 40px;
 	}
 
 
@@ -452,6 +449,20 @@ and (max-width: 600px) {
 
 #body footer p a:hover, #intro .menu a:hover, nav a:hover {
     color: #fff;
+}
+
+@media all and (min-width: 1020px) {
+    #speakers {
+        width: 1020px;
+        margin: 0 auto;
+    }
+    #speakers .speaker {
+        display: inline-block;
+        vertical-align: top;
+        position: relative;
+        overflow: hidden;
+        margin: 10px 0 0 20px;
+    }
 }
 
 
