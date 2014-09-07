@@ -87,26 +87,35 @@ and (min-width: 601px) {
 		background: url(../img/skyline.jpg) 50% 83% no-repeat;
 	}
 	#beams {
-		-webkit-perspective: 300;
+        -moz-perspective: 300px;
+		-webkit-perspective: 300px;
 		position: absolute;
 		top: 50%;
 		left: 50%;
 		margin: -35px 0 0 -560px;
 		-webkit-transition: all 1s ease-in;
+        -moz-transition: all 1s ease-in;
 		opacity: .99 !important;
 	}
 	.loading #beams {
 		opacity: 0 !important;
 	}
 
+    #beams > div {
+        transform-style: preserve-3d;
+    }
+
 	.beam {
 		position: absolute;
 		display: block;
 		width: 2000px;
 		height: 20px;
+        background-image: radial-gradient(ellipse farthest-side at 1600px 12px, #fff 0%, rgba(255,255,255,0) 100%);
 		background-image: -webkit-radial-gradient(right, 2300px 12px, #fff, rgba(255,255,255,0));
 		-webkit-animation: move 8s ease-in-out infinite;
 		-webkit-transform-origin: 240px 0;
+        -moz-animation: move 8s ease-in-out infinite;
+        -moz-transform-origin: 240px 0;
 	}
 
 	#beam2 .beam {
@@ -133,6 +142,15 @@ and (min-width: 601px) {
 			-webkit-transform: rotateY(-82deg) rotateZ(-13deg) translate3d(0, 50px, 0);
 		}
 	}
+
+    @-moz-keyframes move {
+        0%, 100% {
+            -moz-transform: rotateY(-89deg) rotateZ(-27deg) translate3d(0, -20px, 0);
+        }
+        50% {
+            -moz-transform: rotateY(-82deg) rotateZ(-13deg) translate3d(0, 50px, 0);
+        }
+    }
 
 }
 
