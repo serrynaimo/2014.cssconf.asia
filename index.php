@@ -134,7 +134,6 @@
 					design, testing and biking.
 				</p>
 			</div>
-			<!--
 			<div class="speaker">
 				<a href="https://twitter.com/xmlilley" target="_blank"><img src="img/speakers/christian.jpg" /></a>
 				<h3>Christian Lilley <a href="https://twitter.com/xmlilley" target="_blank">@xmlilley</a></h3>
@@ -146,7 +145,6 @@
 					better GeoViz to find the best hawker stalls.
 				</p>
 			</div>
-			//-->
 			<div class="speaker">
 				<a href="https://twitter.com/benschwarz" target="_blank"><img src="img/speakers/benschwarz.jpg" /></a>
 				<h3>Ben Schwarz <a href="https://twitter.com/benschwarz" target="_blank">@benschwarz</a></h3>
