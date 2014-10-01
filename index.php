@@ -130,7 +130,9 @@
 				<a href="https://twitter.com/ricostacruz" target="_blank"><img src="img/speakers/ricostacruz.jpg" /></a>
 				<h3>Rico Sta. Cruz <a href="https://twitter.com/ricostacruz" target="_blank">@ricostacruz</a></h3>
 				<p>
-					Rico is a Ruby/JS developer and CSS afficionado from the Philippines whose passion lies in building great web applications and slick user interfaces. He is the co-founder of a small web development team in Manila called Nadarei, a coding book author and maintains plenty of open-source projects.
+					Rico is a Ruby/JS developer and CSS afficionado from the Philippines whose passion lies in building
+					great web applications and slick user interfaces. He is the co-founder of a small web development
+					team in Manila called Nadarei, a coding book author and maintains plenty of open-source projects.
 				</p>
 			</div>
 			<div class="speaker">
@@ -142,6 +144,15 @@
 					an internal OOCSS framework across airbnb.com, scaling email
 					infrastructure, and making airbnb.com mobile friendly. She likes
 					design, testing and biking.
+				</p>
+			</div>
+			<div class="speaker">
+				<a href="https://twitter.com/ryanseddon" target="_blank"><img src="img/speakers/ryan.jpg" /></a>
+				<h3>Ryan Seddon <a href="https://twitter.com/ryanseddon" target="_blank">@ryanseddon</a></h3>
+				<p>
+					Ryan is a Tech Lean at Zendesk. Hailing from Melbourne Australia, he has an unnatural obsession with CSS,
+					JavaScript and the many places it runs. In his spare time he’s either hiking, writing for his blog
+					thecssninja.com or committing code to github.
 				</p>
 			</div>
 			<div class="speaker">
@@ -159,7 +170,8 @@
 				<a href="https://twitter.com/benschwarz" target="_blank"><img src="img/speakers/benschwarz.jpg" /></a>
 				<h3>Ben Schwarz <a href="https://twitter.com/benschwarz" target="_blank">@benschwarz</a></h3>
 				<p>
-					Ben is an independent web dude from Melbourne. He's 1/5th of CSSConfAU, a percentage of JSConf (We all know how good JavaScript is at numbers), a bower team member and a swag of other stupid projects.
+					Ben is an independent web dude from Melbourne. He's 1/5th of CSSConfAU, a percentage of JSConf
+					(We all know how good JavaScript is at numbers), a bower team member and a swag of other stupid projects.
 				</p>
 			</div>
 			<div class="speaker">
@@ -169,9 +181,10 @@
 					Kushagra is a front-end developer on VWO, a Wingify product, a CSS freak and author of Hint.css. He likes to create things that use existing concepts in new ways. Also sometimes called as the PJ king (beware!), he likes to beatbox and doodle sketches in spare time.
 				</p>
 			</div>
+
 			<p>
 				<br/>
-				We're gonna reveal all our 10 speakers as we approach the event, so <a href="http://twitter.com/cssconfasia">stay tuned</a>!
+				<a href="http://twitter.com/cssconfasia">Stay tuned</a> as we release more information about our schedule closer to the event.
 			</p>
 			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
 				Get your ticket
