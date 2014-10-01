@@ -117,6 +117,16 @@
 				</p>
 			</div>
 			<div class="speaker">
+				<a href="https://twitter.com/zz85" target="_blank"><img src="img/speakers/joshua.jpg" /></a>
+				<h3>Joshua Koo <a href="https://twitter.com/zz85" target="_blank">@zz85</a></h3>
+				<p>
+					Joshua is random. Codes. Cycles. Climbs. Cold jokes. Organizes creative coding meetups.
+					He uses .random() frequently in code and experiments on random ideas in his free time.
+					At random moments, he gains inspiration to share and open source his works. He's from
+					Singapore and is employee #12 of Zopim (now Zendesk) where he leads the integration team.
+				</p>
+			</div>
+			<div class="speaker">
 				<a href="https://twitter.com/ricostacruz" target="_blank"><img src="img/speakers/ricostacruz.jpg" /></a>
 				<h3>Rico Sta. Cruz <a href="https://twitter.com/ricostacruz" target="_blank">@ricostacruz</a></h3>
 				<p>
