@@ -91,7 +91,8 @@
 			</p>
 			<p align="right">
 				<a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
-				<a href="https://twitter.com/thedesignnomad" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a>
+				<a href="https://twitter.com/thedesignnomad" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a> &nbsp; &nbsp; 
+				<a href="https://twitter.com/ramanshalupau" target="_blank"><img src="img/raman.png" alt="Raman" height="35" valign="top" /></a>
 			</p>
         	<form id="subscribeForm" action="http://2014.cssconf.asia/addsubscriber.php" method="get">
         		<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" /><input type="submit" value="Subscribe" /></span></div>
@@ -117,8 +118,8 @@
 				</p>
 			</div>
 			<div class="speaker">
-				<a href="https://twitter.com/zz85" target="_blank"><img src="img/speakers/joshua.jpg" /></a>
-				<h3>Joshua Koo <a href="https://twitter.com/zz85" target="_blank">@zz85</a></h3>
+				<a href="https://twitter.com/blurspline" target="_blank"><img src="img/speakers/joshua.jpg" /></a>
+				<h3>Joshua Koo <a href="https://twitter.com/blurspline" target="_blank">@blurspline</a></h3>
 				<p>
 					Joshua is random. Codes. Cycles. Climbs. Cold jokes. Organizes creative coding meetups.
 					He uses .random() frequently in code and experiments on random ideas in his free time.
