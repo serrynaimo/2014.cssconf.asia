@@ -151,7 +151,7 @@
 				<a href="https://twitter.com/ryanseddon" target="_blank"><img src="img/speakers/ryan.jpg" /></a>
 				<h3>Ryan Seddon <a href="https://twitter.com/ryanseddon" target="_blank">@ryanseddon</a></h3>
 				<p>
-					Ryan is a Tech Lean at Zendesk. Hailing from Melbourne Australia, he has an unnatural obsession with CSS,
+					Ryan is a Tech Lead at Zendesk. Hailing from Melbourne Australia, he has an unnatural obsession with CSS,
 					JavaScript and the many places it runs. In his spare time he’s either hiking, writing for his blog
 					thecssninja.com or committing code to github.
 				</p>
