@@ -215,7 +215,10 @@
 					<a href="https://www.digitalocean.com" target="_blank" style="background: #fff; display: inline-block; padding: 12px 12px 8px;"><img src="img/sponsors/digitalocean.png"  height="40" /></a>
 				</p>
 				<p>
-					<a href="http://www.piktochart.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 12px 0;"><img src="img/sponsors/piktochart.png" style="margin: 8px 0;" height="42" /></a>
+					<a href="http://www.dot.asia/" target="_blank" style="background: #fff; display: inline-block; padding: 8px 10px 2px;"><img src="img/sponsors/asia.png" height="44" /></a>
+				</p>
+				<p>
+					<a href="http://www.piktochart.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 12px 0;"><img src="img/sponsors/piktochart.png" style="margin: 7px 0;" height="42" /></a>
 				</p>
 				<p>
 					<a href="http://www.opera.com" target="_blank" style="background: #fff; display: inline-block; padding: 7px 9px 3px 6px;"><img src="img/sponsors/opera.png" height="46" /></a>
