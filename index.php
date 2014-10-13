@@ -42,7 +42,7 @@
 	</section>
 	<section id="intro">
 	    <div>
-    	    <div class="logo" style="opacity: 0;"><a href="http://facebook.com/cssconfasia"><img src="img/cssconfasia.png" alt="CSSConf.Asia 2014 Singapore" /></a></div>
+    	    <div class="logo" style="opacity: 0;"><a href="http://twitter.com/cssconfasia"><img src="img/cssconfasia.png" alt="CSSConf.Asia 2014 Singapore" /></a></div>
     	    <p>
     		<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
     			Get your ticket
@@ -53,7 +53,7 @@
     			<a href="#about">About</a> &nbsp; &#x2605; &nbsp;
     			<a href="#speakers">Speakers</a> &nbsp; &#x2605; &nbsp;
     			<a href="#sponsors">Sponsors</a> &nbsp; &#x2605; &nbsp;
-    			<a href="http://twitter.com/cssconfasia">Get Updates</a>
+    			<a href="http://facebook.com/cssconfasia">Get Updates</a>
     		</div>
 	    </div>
 	</section>
@@ -256,7 +256,7 @@
 		<a href="#about">About</a> &nbsp; &#x2605; &nbsp;
 		<a href="#speakers">Speakers</a> &nbsp; &#x2605; &nbsp;
 		<a href="#sponsors">Sponsors</a> &nbsp; &#x2605; &nbsp;
-		<a href="http://twitter.com/cssconfasia">Get Updates</a>
+		<a href="http://facebook.com/cssconfasia">Get Updates</a>
 	</nav>
     <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.3.js"></script>
     <script type="text/javascript">window.jQuery || document.write('<script src="js/jquery.min.js">\x3C/script>')</script>
