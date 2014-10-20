@@ -91,7 +91,7 @@
 			</p>
 			<p align="right">
 				<a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
-				<a href="https://twitter.com/thedesignnomad" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a> &nbsp; &nbsp; 
+				<a href="https://twitter.com/thedesignnomad" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a> &nbsp; &nbsp;
 				<a href="https://twitter.com/ramanshalupau" target="_blank"><img src="img/raman.png" alt="Raman" height="35" valign="top" /></a>
 			</p>
         	<form id="subscribeForm" action="http://2014.cssconf.asia/addsubscriber.php" method="get">
@@ -102,24 +102,48 @@
 		<section id="speakers">
 			<h2>Speakers</h2>
 			<div class="speaker">
+				<span>9 AM</span>
 				<a href="https://twitter.com/fox" target="_blank"><img src="img/speakers/karolina.jpg" /></a>
-				<h3>Karolina Szczur <a href="https://twitter.com/fox" target="_blank">@fox</a></h3>
+				<h3>No More Tools</h3>
+				<h4>Karolina Szczur <a href="https://twitter.com/fox" target="_blank">@fox</a></h4>
+				<p>
+					As creatives we constantly search for ways to optimise and streamline workflows. Currently we're being bombarded with more tools than ever. But how do we know that we reached a tipping point, when the apparatus we pick introduces more complexity and wastes way more time that it was supposed to save? As craftspeople, how do we maintain simplicity and learn to rely on bare-bones solutions?
+
+					We'll have a look at up-to-date front-end tooling and analyse alternative approaches to compiling, building and automation processes.
+				</p>
 				<p>
 					Karolina is a designer, developer, photographer and wannabe writer working with her friends at &amp;yet.
 					She's an editor at Smashing Magazine and Open Source fan. She owns a cat and an excessive amount of books on typography.
 				</p>
 			</div>
 			<div class="speaker">
+				<span>9:45 AM</span>
 				<a href="https://twitter.com/mathias" target="_blank"><img src="img/speakers/mathias.jpg" /></a>
-				<h3>Mathias Bynens <a href="https://twitter.com/mathias" target="_blank">@mathias</a></h3>
+				<h3>3.14 things I didn’t know about CSS</h3>
+				<h4>Mathias Bynens <a href="https://twitter.com/mathias" target="_blank">@mathias</a></h4>
+				<p>
+					This talk will showcase a series of obscure CSS fun facts, such as CSS syntax gimmicks and quirks, weird tricks that involve CSS in one way or another, and security vulnerabilities that are enabled by (ab)using CSS in unexpected ways.
+				</p>
 				<p>
 					Mathias is a Belgian web standards freak. He likes HTML, CSS, JavaScript, Unicode, performance,
 					and security. At Opera Software he’s a member of the Developer Relations team.
 				</p>
 			</div>
+			<div class="speaker break">
+				<span>10:30 AM</span>
+				<h3>Snack</h3>
+			</div>
 			<div class="speaker">
+				<span>11 AM</span>
 				<a href="https://twitter.com/blurspline" target="_blank"><img src="img/speakers/joshua.jpg" /></a>
-				<h3>Joshua Koo <a href="https://twitter.com/blurspline" target="_blank">@blurspline</a></h3>
+				<h3>Cascading Perspectives with THREE.CSS3DRenderer</h3>
+				<h4>Joshua Koo <a href="https://twitter.com/blurspline" target="_blank">@blurspline</a></h4>
+				<p>
+					One of the interesting ways to create 3-dimensional content in browsers is by CSS 3D transforms.
+					While three.js has been popularly known as the javascript library for webgl,
+					its modular design supports rendering with 3D transforms using CSS and that has been nothing short of disappointing.
+					This talk takes you through the history, the workings, the possibilities and the creativity (and possibly the future) of three.js and the CSS3DRenderer.
+				</p>
 				<p>
 					Joshua is random. Codes. Cycles. Climbs. Cold jokes. Organizes creative coding meetups.
 					He uses .random() frequently in code and experiments on random ideas in his free time.
@@ -128,17 +152,33 @@
 				</p>
 			</div>
 			<div class="speaker">
+				<span>11:45 AM</span>
 				<a href="https://twitter.com/ricostacruz" target="_blank"><img src="img/speakers/ricostacruz.jpg" /></a>
-				<h3>Rico Sta. Cruz <a href="https://twitter.com/ricostacruz" target="_blank">@ricostacruz</a></h3>
+				<h3>Untangling CSS conventions</h3>
+				<h4>Rico Sta. Cruz <a href="https://twitter.com/ricostacruz" target="_blank">@ricostacruz</a></h4>
+				<p>
+					As today's CSS frameworks become more advanced, the focus on clean semantic markup is slowly being left behind. In this 30 minute talk, we'll discuss the relationship between CSS and HTML over the years, what the common CSS conventions are today, and a possible solution for the future.
+				</p>
 				<p>
 					Rico is a Ruby/JS developer and CSS afficionado from the Philippines whose passion lies in building
 					great web applications and slick user interfaces. He is the co-founder of a small web development
 					team in Manila called Nadarei, a coding book author and maintains plenty of open-source projects.
 				</p>
 			</div>
+			<div class="speaker break">
+				<span>12:15 PM</span>
+				<h3>Lunch</h3>
+			</div>
 			<div class="speaker">
+				<span>1:15 PM</span>
 				<a href="https://twitter.com/MsFionaTay" target="_blank"><img src="img/speakers/fiona.jpg" /></a>
-				<h3>Fiona Tay <a href="https://twitter.com/MsFionaTay" target="_blank">@msfionatay</a></h3>
+				<h3>Inside the Airbnb brand evolution</h3>
+				<h4>Fiona Tay <a href="https://twitter.com/MsFionaTay" target="_blank">@msfionatay</a></h4>
+				<p>
+					You siao ah?! That was my reaction when the Airbnb marketing team told me in January that my team of three would be redesigning the entire airbnb.com site in just six months. I didn't know how we could rewrite thousands of lines of HTML, written over six years by many different developers, while the rest of the engineering team continued to develop new features.
+					<br/>
+					In this talk, I'll share how we created and rolled out a new CSS framework based on Object-Oriented CSS principles to launch a fresh new look while keeping our sanity!
+				</p>
 				<p>
 					Fiona is an engineer on the Core Web team at Airbnb, where she builds
 					tooling for the web platform. She has previously worked on rolling out
@@ -148,8 +188,15 @@
 				</p>
 			</div>
 			<div class="speaker">
+				<span>2 PM</span>
 				<a href="https://twitter.com/ryanseddon" target="_blank"><img src="img/speakers/ryan.jpg" /></a>
-				<h3>Ryan Seddon <a href="https://twitter.com/ryanseddon" target="_blank">@ryanseddon</a></h3>
+				<h3>Avoiding the Cascade</h3>
+				<h4>Ryan Seddon <a href="https://twitter.com/ryanseddon" target="_blank">@ryanseddon</a></h4>
+				<p>
+					The best and worst thing about CSS is the Cascade, sure it gives you great power to override that pesky style messing with your site but it creates complexity about what that long selector is affecting. I'll show you why avoiding it will result in smaller more maintainable CSS that you can safely reason, refactor and rejoice over.
+
+					This talk will dive into how my team and I write CSS. The approaches we've taken, borrowed from BEM & SUIT, and what you should think about when creating beautifully maintainable CSS.
+				</p>
 				<p>
 					Ryan is a Tech Lead at Zendesk. Hailing from Melbourne Australia, he has an unnatural obsession with CSS,
 					JavaScript and the many places it runs. In his spare time he’s either hiking, writing for his blog
@@ -157,8 +204,15 @@
 				</p>
 			</div>
 			<div class="speaker">
+				<span>2:45 PM</span>
 				<a href="https://twitter.com/xmlilley" target="_blank"><img src="img/speakers/christian.jpg" /></a>
-				<h3>Christian Lilley <a href="https://twitter.com/xmlilley" target="_blank">@xmlilley</a></h3>
+				<h3>Build Scalable, Automated CSS Both You and Your 'Back-End' Coders Can Love</h3>
+				<h4>Christian Lilley <a href="https://twitter.com/xmlilley" target="_blank">@xmlilley</a></h4>
+				<p>
+					Why don't 'back-end' coders get CSS?!? They call it an 'anti-language full of black magic', and post GIFs making fun of our craft. Let's kill two birds with one stone: learn how to evangelize CSS to them, and to make our CSS-Foo better and stronger by understanding both what makes them crazy, and what they bring to the table in terms of building scalable, maintainable applications.
+					<br/>
+					We'll take the bad with the good: purge from your own repertoire the habits (like over-use of floats) that never should have caught on. And acquire new habits (like naming conventions and preprocessors) that make your own code vastly more readable and maintainable. Finally, we'll look at how automation with life-changing tools like Node, Grunt and Compass can not only grant you new super-powers, but also make your whole working style vastly more familiar to  the server-side guys. By the end of our talk, you'll be on a path to enlightenment, and the gear-heads down the hall will look at you in a whole new light.
+				</p>
 				<p>
 					Christian is a UI Architect at McKinsey Digital Labs and turns theoretical
 					business-y stuff into real useful blinky-lights.
@@ -167,22 +221,35 @@
 					better GeoViz to find the best hawker stalls.
 				</p>
 			</div>
+			<div class="speaker break">
+				<span>3:30 PM</span>
+				<h3>Snack</h3>
+			</div>
 			<div class="speaker">
+				<span>4 PM</span>
+				<a href="https://twitter.com/chinchang457" target="_blank"><img src="img/speakers/kushagra.jpg" /></a>
+				<h3>10 Commandments for efficient CSS architecture</h3>
+				<h4>Kushagra Gour <a href="https://twitter.com/chinchang457" target="_blank">@chinchang457</a></h4>
+				<p>
+					CSS is a very funny language. That is something we all have realised at some point or the other while working with it. If not used correctly, a language used to make things look good can itself start looking bad and we can end up with CSS that is hard to manage and extend. My talk will be about 10 things which I have learnt from experience can make one's CSS manageable and easy to extend, specially in large scale applications. Plus there is a fun CSS game for everyone to play along during the talk! Lets have fun with CSS together.
+				</p>
+				<p>
+					Kushagra is a front-end developer on VWO, a Wingify product, a CSS freak and author of Hint.css. He likes to create things that use existing concepts in new ways. Also sometimes called as the PJ king (beware!), he likes to beatbox and doodle sketches in spare time.
+				</p>
+			</div>
+			<div class="speaker">
+				<span>4:45 PM</span>
 				<a href="https://twitter.com/benschwarz" target="_blank"><img src="img/speakers/benschwarz.jpg" /></a>
-				<h3>Ben Schwarz <a href="https://twitter.com/benschwarz" target="_blank">@benschwarz</a></h3>
+				<h3>What are we doing, anyway?</h3>
+				<h4>Ben Schwarz <a href="https://twitter.com/benschwarz" target="_blank">@benschwarz</a></h4>
+				<p>
+					A ten year story. Following the path of least resistance for your career is the most comfortable and absolutely the easiest to explain to your parents. But, If we don't do that... What exactly the hell are we doing?
+				</p>
 				<p>
 					Ben is an independent web dude from Melbourne. He's 1/5th of CSSConfAU, a percentage of JSConf
 					(We all know how good JavaScript is at numbers), a bower team member and a swag of other stupid projects.
 				</p>
 			</div>
-			<div class="speaker">
-				<a href="https://twitter.com/chinchang457" target="_blank"><img src="img/speakers/kushagra.jpg" /></a>
-				<h3>Kushagra Gour <a href="https://twitter.com/chinchang457" target="_blank">@chinchang457</a></h3>
-				<p>
-					Kushagra is a front-end developer on VWO, a Wingify product, a CSS freak and author of Hint.css. He likes to create things that use existing concepts in new ways. Also sometimes called as the PJ king (beware!), he likes to beatbox and doodle sketches in spare time.
-				</p>
-			</div>
-
 			<p>
 				<br/>
 				<a href="http://twitter.com/cssconfasia">Stay tuned</a> as we release more information about our schedule closer to the event.
