@@ -91,7 +91,7 @@
 			</p>
 			<p align="right">
 				<a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
-				<a href="https://twitter.com/thedesignnomad" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a> &nbsp; &nbsp; 
+				<a href="https://twitter.com/thedesignnomad" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a> &nbsp; &nbsp;
 				<a href="https://twitter.com/ramanshalupau" target="_blank"><img src="img/raman.png" alt="Raman" height="35" valign="top" /></a>
 			</p>
         	<form id="subscribeForm" action="http://2014.cssconf.asia/addsubscriber.php" method="get">
@@ -216,6 +216,9 @@
 				</p>
 				<p>
 					<a href="https://www.paypal.com" target="_blank" style="background: #fff; display: inline-block; padding: 9px 13px 8px;"><img src="img/sponsors/paypal.png"  height="40" /></a>
+				</p>
+				<p>
+					<a href="https://www.mozilla.com" target="_blank" style="background: #fff; display: inline-block; padding: 6px 8px 4px;"><img src="img/sponsors/mozilla.png"  height="42" /></a>
 				</p>
 				<p>
 					<a href="http://www.dot.asia/" target="_blank" style="background: #fff; display: inline-block; padding: 8px 10px 2px;"><img src="img/sponsors/asia.png" height="44" /></a>
