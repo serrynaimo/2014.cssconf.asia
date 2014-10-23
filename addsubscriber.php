@@ -12,7 +12,7 @@ header("Access-Control-Allow-Headers: Origin, x-http-method-override, Content-Ty
 	$wrap = new CS_REST_Subscribers('2554f6f0907f592868a129c67da2627d', $cm_key);
 else
 	$wrap = new CS_REST_Subscribers('df11cf9b50bd17cb1ccd8e40023cdfd4', $cm_key);
-	
+
 $result = $wrap->add(array(
     'EmailAddress' => $_GET['email'],
     'Resubscribe' => true
@@ -28,15 +28,22 @@ if($result->was_successful()) {
 $MailChimp = new \Drewm\MailChimp($mc_key);
 
 $result = $MailChimp->call('lists/subscribe', array(
-                'id'                => 'ebe92209fe',
+                'id'                => '319c43ef80',
                 'email'             => array('email'=>$_GET['email']),
-                'merge_vars'        => array(),
+                'merge_vars'        => array(
+                                        'GROUPINGS' => array(
+                                            array(
+                                                'name' => "Conference",
+                                                'groups' => array("CSSConf")
+                                            )
+                                        )
+                                    ),
                 'double_optin'      => false,
                 'update_existing'   => true,
                 'replace_interests' => false,
                 'send_welcome'      => false,
             ));
-            
+
 if(isset($result['email'])) {
     echo "Thanks! :)";
 } else if(isset($result['error'])) {
