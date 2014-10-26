@@ -418,16 +418,24 @@ and (max-width: 600px) {
     width: 480px;
 }
 
+#speakers .speaker span {
+    float: left;
+    width: 65px;
+    font-size: 0.8em;
+    text-align: right;
+}
+
 #speakers .speaker img {
     float: left;
-    height: 100px;
-    width: 100px;
+    height: 70px;
+    width: 70px;
     margin-left: 8px;
-    border-radius: 50px;
+    margin-right: 15px;
+    border-radius: 35px;
     box-shadow: 5px 5px 0 #e8b800, 4px 4px 0 #e8b800, 3px 3px 0 #e8b800, 2px 2px 0 #e8b800, 1px 1px 0 #e8b800;
 }
 
-#speakers .speaker h3, #speakers .speaker p {
+#speakers .speaker h4, #speakers .speaker p {
     margin-left: 100px;
     width: 330px;
 }
