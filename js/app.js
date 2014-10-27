@@ -46,7 +46,9 @@ $("#subscribeForm .msg").click(function() {
 });
 
 $('.speaker').click(function(e) {
-   $(e.currentTarget).toggleClass('open');
+	if(!$(e.currentTarget).hasClass('dot')) {
+	   $(e.currentTarget).toggleClass('open');
+	}
 });
 
 setTimeout(function() {
