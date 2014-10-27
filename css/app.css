@@ -493,11 +493,19 @@ and (max-width: 600px) {
     margin-right: 14px;
     border-radius: 35px;
     box-shadow: 5px 5px 0 #e8b800, 4px 4px 0 #e8b800, 3px 3px 0 #e8b800, 2px 2px 0 #e8b800, 1px 1px 0 #e8b800;
+    -webkit-transform: scale(.8);
+    -moz-transform: scale(.8);
+    -ms-transform: scale(.8);
+    -o-transform: scale(.8);
     transform: scale(.8);
     transition: all .1s ease-in;
 }
 
 #speakers .speaker:hover img, #speakers .speaker.open img {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
     transform: scale(1);
 }
 
@@ -597,7 +605,7 @@ and (max-width: 600px) {
     #speakers .column:before {
         top: 80px;
         bottom: 45px;
-    }   
+    }
     #speakers .column + .column:after {
         display: none;
     }
