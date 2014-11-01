@@ -118,7 +118,7 @@
     				<h3>Morning Snack</h3>
     			</div>
     			<div class="speaker">
-    				<span>11 AM</span>
+    				<span>11:15 AM</span>
     				<img src="img/speakers/ryan.jpg" />
     				<h4>Ryan Seddon <a href="https://twitter.com/ryanseddon" target="_blank">@ryanseddon</a></h4>
     				<h3>Performant UIs using CSS magic</h3>
@@ -133,7 +133,7 @@
     				</p>
     			</div>
     			<div class="speaker">
-    				<span>11:30 AM</span>
+    				<span>11:45 AM</span>
     				<img src="img/speakers/christian.jpg" />
     				<h4>Christian Lilley <a href="https://twitter.com/xmlilley" target="_blank">@xmlilley</a></h4>
     				<h3>Build Scalable, Automated CSS Both You and Your ’Back-End’ Coders Can Love</h3>
@@ -151,13 +151,13 @@
     				</p>
     			</div>
     			<div class="speaker break">
-    				<span>12:15 PM</span>
+    				<span>12:30 PM</span>
     				<h3>Buffet Lunch<br/><br/></h3>
     			</div>
 			</div>
             <div class="column">
     			<div class="speaker">
-    				<span>1:30 PM</span>
+    				<span>1:45 PM</span>
     				<img src="img/speakers/fiona.jpg" />
     				<h4>Fiona Tay <a href="https://twitter.com/MsFionaTay" target="_blank">@msfionatay</a></h4>
     				<h3>Inside the Airbnb brand evolution</h3>
@@ -175,7 +175,7 @@
     				</p>
     			</div>
     			<div class="speaker">
-    				<span>2:30 AM</span>
+    				<span>2:15 PM</span>
     				<img src="img/speakers/joshua.jpg" />
     				<h4>Joshua Koo <a href="https://twitter.com/blurspline" target="_blank">@blurspline</a></h4>
     				<h3>Cascading Perspectives with THREE.CSS3DRenderer</h3>
@@ -193,7 +193,7 @@
     				</p>
     			</div>
     			<div class="speaker">
-    				<span>3 PM</span>
+    				<span>2:45 PM</span>
     				<img src="img/speakers/ricostacruz.jpg" />
     				<h4>Rico Sta. Cruz <a href="https://twitter.com/ricostacruz" target="_blank">@ricostacruz</a></h4>
     				<h3>Building a modern mobile web UI</h3>
@@ -207,7 +207,7 @@
     				</p>
     			</div>
     			<div class="speaker break">
-    				<span>3:30 PM</span>
+    				<span>3:15 PM</span>
     				<h3>Afternoon Snack</h3>
     			</div>
     			<div class="speaker">
