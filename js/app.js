@@ -45,6 +45,12 @@ $("#subscribeForm .msg").click(function() {
 	$("#subscribeForm input[name='email']").focus();
 });
 
+$('.speaker').click(function(e) {
+	if(!$(e.currentTarget).hasClass('dot')) {
+	   $(e.currentTarget).toggleClass('open');
+	}
+});
+
 setTimeout(function() {
 	$("body").removeClass("loading");
 }, 1400);
