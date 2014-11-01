@@ -50,8 +50,8 @@
     		</a>
     	    </p>
     		<div class="menu">
-    			<a href="#about">About</a> &nbsp; &#x2605; &nbsp;
-    			<a href="#speakers">Speakers</a> &nbsp; &#x2605; &nbsp;
+    			<a href="#schedule">Schedule</a> &nbsp; &#x2605; &nbsp;
+                <a href="#about">About</a> &nbsp; &#x2605; &nbsp;
     			<a href="#sponsors">Sponsors</a> &nbsp; &#x2605; &nbsp;
     			<a href="http://facebook.com/cssconfasia">Get Updates</a>
     		</div>
@@ -72,43 +72,17 @@
 			<a href="http://www.pocketmath.com" target="_blank"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
 		</p>
 		</section>
-		<section id="about">
-			<h2>About</h2>
-			<p>
-			<i>CSSConf is where design meets developers to inspire, educate and entertain around building the world's most engaging user interfaces.</i>
-			</p>
-			<h3>We haz the Speakers, the Wifis, the foods, the parties...</h3>
-			<p>
-			...or what we consider the essentials for a great event. You just learn so much better when you're happy and connected.
-			</p>
-			<p>
-			<a href="http://www.jimmymonkey.com/" target="_blank"><img src="img/jimmy.png" style="float: right; margin: 0 -25px 0 20px;"height="138" /></a>
-			Jimmy Monkey will be there for 8 hours of non-stop coffee brewing and pulling shots. They craft maybe the most sophisticated espresso based coffees in all of Singapore and will be running our café. But don't worry: It's not that the conference content will be tiring... ;-)
-			</p>
-			<h3>It's for you!</h3>
-			<p>
-			Together with <a href="http://2014.jsconf.asia">JSConf</a>, we want to make community events that brings Southeast-Asia's best web designers together in an playful and informal environment. It's gonna be a great setting for learning and exchange and we can't wait to see you there!
-			</p>
-			<p align="right">
-				<a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
-				<a href="https://twitter.com/thedesignnomad" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a> &nbsp; &nbsp;
-				<a href="https://twitter.com/ramanshalupau" target="_blank"><img src="img/raman.png" alt="Raman" height="35" valign="top" /></a>
-			</p>
-        	<form id="subscribeForm" action="http://2014.cssconf.asia/addsubscriber.php" method="get">
-        		<div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" /><input type="submit" value="Subscribe" /></span></div>
-        		<div class="msg"><span></span></div>
-        	</form>
-		</section>
+        <a name="schedule"></a>
 		<section id="speakers">
-			<h2>Speakers</h2>
+			<h2>Schedule</h2>
 			<p>
 				We're very proud to have some of the finest CSS developers sharing their stories and experiences. <a href="http://twitter.com/cssconfasia">Follow us on Twitter</a> for regular updates around the event and CSS.
-			</p>	
+			</p>
 		    <div class="column">
     			<div class="speaker dot">
     				<span>9 AM</span>
     				<h4>Thomas Gorissen <a href="https://twitter.com/serrynaimo" target="_blank">@serrynaimo</a></h4>
-    				<h3>transition: opacity 15m ease-in</h3>
+    				<h3>transition: all 15m ease-in</h3>
     				<p></p><p></p>
     			</div>
     			<div class="speaker">
@@ -118,7 +92,7 @@
     				<h3>No More Tools</h3>
     				<p>
     					As creatives we constantly search for ways to optimise and streamline workflows. Currently we're being bombarded with more tools than ever. But how do we know that we reached a tipping point, when the apparatus we pick introduces more complexity and wastes way more time that it was supposed to save? As craftspeople, how do we maintain simplicity and learn to rely on bare-bones solutions?
-    
+
     					We'll have a look at up-to-date front-end tooling and analyse alternative approaches to compiling, building and automation processes.
     				</p>
     				<p>
@@ -150,7 +124,7 @@
     				<h3>Performant UIs using CSS magic</h3>
     				<p>
     					Performance doesn't end with making our sites load fast it's also crucial in improving perceived speed and creating delight with silky smooth animations that creates beautiful UX for our websites and web apps.<br/>
-                        In this talk we'll explore how you can identify and improve performance using the various dev tools as well as techniques used to make sure animations run at the golden standard of 60fps. 
+                        In this talk we'll explore how you can identify and improve performance using the various dev tools as well as techniques used to make sure animations run at the golden standard of 60fps.
     				</p>
     				<p>
     					Ryan is a Tech Lead at Zendesk. Hailing from Melbourne Australia, he has an unnatural obsession with CSS,
@@ -222,9 +196,9 @@
     				<span>3:15 PM</span>
     				<img src="img/speakers/ricostacruz.jpg" />
     				<h4>Rico Sta. Cruz <a href="https://twitter.com/ricostacruz" target="_blank">@ricostacruz</a></h4>
-    				<h3>Untangling CSS conventions</h3>
+    				<h3>Building a modern mobile web UI</h3>
     				<p>
-    					As today's CSS frameworks become more advanced, the focus on clean semantic markup is slowly being left behind. In this 30 minute talk, we'll discuss the relationship between CSS and HTML over the years, what the common CSS conventions are today, and a possible solution for the future.
+    					Responsiveness doesn't need to be hard. We'll explore how to use modern CSS to build clean, responsive mobile app interfaces with flexbox.
     				</p>
     				<p>
     					Rico is a Ruby/JS developer and CSS afficionado from the Philippines whose passion lies in building
@@ -271,6 +245,33 @@
 				<span>1 day - S$280</span>
 			</a>
 		</section>
+        <section id="about">
+            <h2>About</h2>
+            <p>
+            <i>CSSConf is where design meets developers to inspire, educate and entertain around building the world's most engaging user interfaces.</i>
+            </p>
+            <h3>We haz the Speakers, the Wifis, the foods, the parties...</h3>
+            <p>
+            ...or what we consider the essentials for a great event. You just learn so much better when you're happy and connected.
+            </p>
+            <p>
+            <a href="http://www.jimmymonkey.com/" target="_blank"><img src="img/jimmy.png" style="float: right; margin: 0 -25px 0 20px;"height="138" /></a>
+            Jimmy Monkey will be there for 8 hours of non-stop coffee brewing and pulling shots. They craft maybe the most sophisticated espresso based coffees in all of Singapore and will be running our café. But don't worry: It's not that the conference content will be tiring... ;-)
+            </p>
+            <h3>It's for you!</h3>
+            <p>
+            Together with <a href="http://2014.jsconf.asia">JSConf</a>, we want to make community events that brings Southeast-Asia's best web designers together in an playful and informal environment. It's gonna be a great setting for learning and exchange and we can't wait to see you there!
+            </p>
+            <p align="right">
+                <a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
+                <a href="https://twitter.com/thedesignnomad" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a> &nbsp; &nbsp;
+                <a href="https://twitter.com/ramanshalupau" target="_blank"><img src="img/raman.png" alt="Raman" height="35" valign="top" /></a>
+            </p>
+            <form id="subscribeForm" action="http://2014.cssconf.asia/addsubscriber.php" method="get">
+                <div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" /><input type="submit" value="Subscribe" /></span></div>
+                <div class="msg"><span></span></div>
+            </form>
+        </section>
 		<section id="sponsors">
 			<h2>Sponsors</h2>
 			<div class="sponsor">
@@ -332,8 +333,8 @@
 	</section>
 	<nav>
 		<img src="assets/cssconfasia_icon.png" height="48" /><br/>
-		<a href="#about">About</a> &nbsp; &#x2605; &nbsp;
-		<a href="#speakers">Speakers</a> &nbsp; &#x2605; &nbsp;
+        <a href="#schedule">Schedule</a> &nbsp; &#x2605; &nbsp;
+        <a href="#about">About</a> &nbsp; &#x2605; &nbsp;
 		<a href="#sponsors">Sponsors</a> &nbsp; &#x2605; &nbsp;
 		<a href="http://facebook.com/cssconfasia">Get Updates</a>
 	</nav>
