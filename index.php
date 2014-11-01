@@ -101,7 +101,7 @@
     				</p>
     			</div>
     			<div class="speaker">
-    				<span>10 AM</span>
+    				<span>9:45 AM</span>
     				<img src="img/speakers/mathias.jpg" />
     				<h4>Mathias Bynens <a href="https://twitter.com/mathias" target="_blank">@mathias</a></h4>
     				<h3>3.14 things I didn’t know about CSS</h3>
@@ -114,11 +114,11 @@
     				</p>
     			</div>
     			<div class="speaker break">
-    				<span>10:45 AM</span>
+    				<span>10:30 AM</span>
     				<h3>Morning Snack</h3>
     			</div>
     			<div class="speaker">
-    				<span>11:15 PM</span>
+    				<span>11 AM</span>
     				<img src="img/speakers/ryan.jpg" />
     				<h4>Ryan Seddon <a href="https://twitter.com/ryanseddon" target="_blank">@ryanseddon</a></h4>
     				<h3>Performant UIs using CSS magic</h3>
@@ -133,7 +133,7 @@
     				</p>
     			</div>
     			<div class="speaker">
-    				<span>12 PM</span>
+    				<span>11:30 AM</span>
     				<img src="img/speakers/christian.jpg" />
     				<h4>Christian Lilley <a href="https://twitter.com/xmlilley" target="_blank">@xmlilley</a></h4>
     				<h3>Build Scalable, Automated CSS Both You and Your ’Back-End’ Coders Can Love</h3>
@@ -151,13 +151,13 @@
     				</p>
     			</div>
     			<div class="speaker break">
-    				<span>12:45 PM</span>
+    				<span>12:15 PM</span>
     				<h3>Buffet Lunch<br/><br/></h3>
     			</div>
 			</div>
             <div class="column">
     			<div class="speaker">
-    				<span>1:45 PM</span>
+    				<span>1:30 PM</span>
     				<img src="img/speakers/fiona.jpg" />
     				<h4>Fiona Tay <a href="https://twitter.com/MsFionaTay" target="_blank">@msfionatay</a></h4>
     				<h3>Inside the Airbnb brand evolution</h3>
@@ -193,7 +193,7 @@
     				</p>
     			</div>
     			<div class="speaker">
-    				<span>3:15 PM</span>
+    				<span>3 PM</span>
     				<img src="img/speakers/ricostacruz.jpg" />
     				<h4>Rico Sta. Cruz <a href="https://twitter.com/ricostacruz" target="_blank">@ricostacruz</a></h4>
     				<h3>Building a modern mobile web UI</h3>
@@ -207,11 +207,11 @@
     				</p>
     			</div>
     			<div class="speaker break">
-    				<span>4 PM</span>
+    				<span>3:30 PM</span>
     				<h3>Afternoon Snack</h3>
     			</div>
     			<div class="speaker">
-    				<span>4:30 PM</span>
+    				<span>4 PM</span>
     				<img src="img/speakers/kushagra.jpg" />
     				<h4>Kushagra Gour <a href="https://twitter.com/chinchang457" target="_blank">@chinchang457</a></h4>
     				<h3>10 Commandments for efficient CSS architecture</h3>
@@ -223,7 +223,7 @@
     				</p>
     			</div>
     			<div class="speaker">
-    				<span>5:15 PM</span>
+    				<span>4:30 PM</span>
     				<img src="img/speakers/benschwarz.jpg" />
     				<h4>Ben Schwarz <a href="https://twitter.com/benschwarz" target="_blank">@benschwarz</a></h4>
     				<h3>What are we doing, anyway?</h3>
@@ -236,7 +236,7 @@
     				</p>
     			</div>
     			<div class="speaker break">
-    				<span>6 PM</span>
+    				<span>5:30 PM</span>
     				<h3>Developer Island<br/>After-Party with Redmart</h3>
     			</div>
             </div>
