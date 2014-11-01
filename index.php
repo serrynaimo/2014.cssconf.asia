@@ -198,7 +198,7 @@
     				<h4>Rico Sta. Cruz <a href="https://twitter.com/ricostacruz" target="_blank">@ricostacruz</a></h4>
     				<h3>Building a modern mobile web UI</h3>
     				<p>
-    					Responsiveness doesn’t need to be hard. We’ll explore how to use modern CSS to build clean, responsive mobile app interfaces with flexbox.
+    					Adapting to new screen sizes doesn’t need to be hard. We’ll explore how to use modern CSS to build clean, responsive mobile app interfaces with flexbox.
     				</p>
     				<p>
     					Rico is a Ruby/JS developer and CSS afficionado from the Philippines whose passion lies in building
