@@ -484,6 +484,13 @@ and (max-width: 600px) {
     margin-top: 25px;
     color: #c7950a;
     text-shadow: 1px 1px 0 rgba(255,255,255,.3);
+    transition: none;
+}
+
+#speakers .speaker.open span {
+    transition: all .1s ease-out;
+    color: #000;
+    text-shadow: 1px 1px 0 rgba(255,255,255,0);
 }
 
 #speakers .speaker img {
