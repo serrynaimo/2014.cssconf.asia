@@ -277,7 +277,7 @@
 			<div class="sponsor">
 				<h3>The boss</h3>
 				<p>
-					<a href="http://www.pocketmath.com" target="_blank" style="background: #fff; display: inline-block; padding: 12px 12px 5px;"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
+					<a href="http://www.pocketmath.com" target="_blank" style="background: #fff; display: inline-block; padding: 12px 12px 5px; width: 262px;"><img src="img/sponsors/pocketmath.svg"  height="40" /></a>
 				</p>
 				<p>
 					PocketMath makes it easy to buy media, real time, across mobile website, apps and games. We’re found in Singapore and San Francisco, with a presence in Australia and India! Check us out at <a href="http://www.pocketmath.com" target="_blank">www.pocketmath.com</a>
@@ -288,7 +288,7 @@
 			<div class="supporter">
 				<h3>The Supporters</h3>
 				<p>
-					<a href="http://about.redmart.com" target="_blank" style="background: #fff; display: inline-block; padding: 7px 12px 3px;"><img src="img/sponsors/redmart.svg" style="margin: 0 -13px;"  height="40" /></a>
+					<a href="http://about.redmart.com" target="_blank" style="background: #fff; display: inline-block; padding: 7px 12px 3px; width: 177px;"><img src="img/sponsors/redmart.svg" style="margin: 0 -13px;"  height="40" /></a>
 				</p>
 				<p>
 					<a href="https://www.github.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 12px 0;"><img src="img/sponsors/github.png" style="margin: 0 -10px;" height="50" /></a>
