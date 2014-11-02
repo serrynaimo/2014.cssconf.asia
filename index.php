@@ -260,7 +260,7 @@
             </p>
             <h3>It’s for you!</h3>
             <p>
-            Together with <a href="http://2014.jsconf.asia">JSConf</a>, we want to make community events that brings Southeast-Asia’s best web designers together in an playful and informal environment. It’s gonna be a great setting for learning and exchange and we can’t wait to see you there!
+            Together with <a href="http://2014.jsconf.asia">JSConf</a>, we want to make community events that bring Southeast-Asia’s best web designers together in a playful and informal environment. It’s gonna be a great setting for learning and exchange and we can’t wait to see you there!
             </p>
             <p align="right">
                 <a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
