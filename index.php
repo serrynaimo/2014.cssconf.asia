@@ -308,6 +308,9 @@
 				<p>
 					<a href="http://www.piktochart.com" target="_blank" style="background: #fff; display: inline-block; padding: 4px 12px 0;"><img src="img/sponsors/piktochart.png" style="margin: 8px 0;" height="42" /></a>
 				</p>
+                <p>
+                    <a href="http://www.mig.me" target="_blank" style="background: #fff; display: inline-block; padding: 9px 9px 1px 6px;"><img src="img/sponsors/migme.png" height="46" /></a>
+                </p>
 				<p>
 					<a href="http://www.opera.com" target="_blank" style="background: #fff; display: inline-block; padding: 7px 9px 3px 6px;"><img src="img/sponsors/opera.png" height="46" /></a>
 				</p>
