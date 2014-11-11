@@ -302,6 +302,9 @@
 					<a href="https://www.mozilla.com" target="_blank" style="background: #fff; display: inline-block; padding: 6px 8px 4px;"><img src="img/sponsors/mozilla.png"  height="42" /></a>
 				</p>
 				<p>
+					<a href="http://www.zopim.com" target="_blank" style="background: #fff; display: inline-block; padding: 3px 8px 0px;"><img src="img/sponsors/zopim.png" height="49" /></a>
+				</p>
+				<p>
 					<a href="http://www.dot.asia/" target="_blank" style="background: #fff; display: inline-block; padding: 8px 10px 2px;"><img src="img/sponsors/asia.png" height="44" /></a>
 				</p>
 				<p>
