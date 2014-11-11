@@ -102,15 +102,14 @@
     			</div>
     			<div class="speaker">
     				<span>9:45 AM</span>
-    				<img src="img/speakers/mathias.jpg" />
-    				<h4>Mathias Bynens <a href="https://twitter.com/mathias" target="_blank">@mathias</a></h4>
-    				<h3>3.14 things I didn’t know about CSS</h3>
+    				<img src="img/speakers/sebastiaan.jpg" />
+    				<h4>Sebastiaan Deckers <a href="https://twitter.com/sebdeckers" target="_blank">@sebdeckers</a></h4>
+    				<h3>The SVG reality</h3>
     				<p>
-    					This talk will showcase a series of obscure CSS fun facts, such as CSS syntax gimmicks and quirks, weird tricks that involve CSS in one way or another, and security vulnerabilities that are enabled by (ab)using CSS in unexpected ways.
+    					SVG is weird. It looks somehow familiar and can be handled similarly but it has its distinct differences and purpose from the technologies you know, like HTML and CSS. In this talk I want to share my experiences getting started, embedding and using SVG in modern web applications.
     				</p>
     				<p>
-    					Mathias is a Belgian web standards freak. He likes HTML, CSS, JavaScript, Unicode, performance,
-    					and security. At Opera Software he’s a member of the Developer Relations team.
+                        Seb is a frontend fanatic hailing from Belgium. He now lives in Singapore where he helps startups build browser-whipping web apps at Cofounders.sg and hosts the Front End Developers Singapore (FEDS) meetup.
     				</p>
     			</div>
     			<div class="speaker break">
