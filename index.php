@@ -194,7 +194,7 @@
     			<div class="speaker">
     				<span>2:45 PM</span>
     				<img src="img/speakers/ricostacruz.jpg" />
-    				<h4>Rico Sta. Cruz <a href="https://twitter.com/ricostacruz" target="_blank">@ricostacruz</a></h4>
+    				<h4>Rico Sta. Cruz <a href="https://twitter.com/rstacruz" target="_blank">@rstacruz</a></h4>
     				<h3>Building a modern mobile web UI</h3>
     				<p>
     					Adapting to new screen sizes doesn’t need to be hard. We’ll explore how to use modern CSS to build clean, responsive mobile app interfaces with flexbox.
