@@ -45,8 +45,7 @@
     	    <div class="logo" style="opacity: 0;"><a href="http://twitter.com/cssconfasia"><img src="img/cssconfasia.png" alt="CSSConf.Asia 2014 Singapore" /></a></div>
     	    <p>
     		<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
-				Get the last ticket!
-				<span>1 day - S$400</span>
+    			Sale Ended
     		</a>
     	    </p>
     		<div class="menu">
@@ -240,8 +239,7 @@
     			</div>
             </div>
 			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
-				Get the last ticket!
-				<span>1 day - S$400</span>
+				Sale Ended
 			</a>
 		</section>
         <section id="about">
@@ -322,8 +320,7 @@
 				</p>
 			</div>
 			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
-				Get the last ticket!
-				<span>1 day - S$400</span>
+				Sale Ended
 			</a>
 		</section>
 		<footer>
