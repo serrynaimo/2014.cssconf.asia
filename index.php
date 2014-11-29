@@ -44,7 +44,7 @@
 	    <div>
     	    <div class="logo" style="opacity: 0;"><a href="http://twitter.com/cssconfasia"><img src="img/cssconfasia.png" alt="CSSConf.Asia 2014 Singapore" /></a></div>
     	    <p>
-    		<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
+    		<a href="https://www.facebook.com/cssconfasia/photos_stream" target="_blank" class="button">
     			Thanks for coming everyone! We had a blast!
     		</a>
     	    </p>
