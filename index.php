@@ -45,7 +45,7 @@
     	    <div class="logo" style="opacity: 0;"><a href="http://twitter.com/cssconfasia"><img src="img/cssconfasia.png" alt="CSSConf.Asia 2014 Singapore" /></a></div>
     	    <p>
     		<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
-    			Sale Ended
+    			Thanks for coming everyone! We had a blast!
     		</a>
     	    </p>
     		<div class="menu">
@@ -359,6 +359,5 @@
 	  ga('send', 'pageview');
 
 	</script>
-    <script>window.scrollback = {"room":"cssconfasia","titlebarColor":"#c99600"};(function(d,s,h,e){e=d.createElement(s);e.async=1;e.src=(location.protocol === "https:" ? "https:" : "http:") + "//scrollback.io/client.min.js";d.getElementsByTagName(s)[0].parentNode.appendChild(e);}(document,"script"));</script>
 </body>
 </html>
