@@ -44,9 +44,9 @@
 	    <div>
     	    <div class="logo" style="opacity: 0;"><a href="http://twitter.com/cssconfasia"><img src="img/cssconfasia.png" alt="CSSConf.Asia 2014 Singapore" /></a></div>
     	    <p>
-    		<a href="https://www.facebook.com/cssconfasia/photos_stream" target="_blank" class="button">
-    			Thanks for coming everyone! We had a blast!
-    		</a>
+			<a href="https://www.youtube.com/playlist?list=PL37ZVnwpeshHFbT0mLTNMtMGO1mo6yPRX" target="_blank" class="button">
+				Watch the talk videos!
+			</a>
     	    </p>
     		<div class="menu">
     			<a href="#schedule">Schedule</a> &nbsp; &#x2605; &nbsp;
@@ -238,8 +238,8 @@
     				<h3>Developer Island<br/>After-Party with Redmart</h3>
     			</div>
             </div>
-			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
-				Sale Ended
+			<a href="https://www.youtube.com/playlist?list=PL37ZVnwpeshHFbT0mLTNMtMGO1mo6yPRX" target="_blank" class="button">
+				Watch the talk videos!
 			</a>
 		</section>
         <section id="about">
@@ -319,8 +319,8 @@
 					If you’re interested in supporting the web developer community as well, please <a href="mailto:sponsors@cssconf.asia?subject=CSSConf Sponsorship">write us a mail</a>!
 				</p>
 			</div>
-			<a href="https://eventnook.com/event/register/22634" target="_blank" class="button">
-				Sale Ended
+			<a href="https://www.youtube.com/playlist?list=PL37ZVnwpeshHFbT0mLTNMtMGO1mo6yPRX" target="_blank" class="button">
+				Watch the talk videos!
 			</a>
 		</section>
 		<footer>
