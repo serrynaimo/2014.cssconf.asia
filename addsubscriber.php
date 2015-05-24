@@ -25,7 +25,7 @@ if($result->was_successful()) {
     echo $result->response->Message;
 }*/
 
-if(!empty($_GET['email']) && !empty($_GET['fname'])) {
+if(!empty($_GET['email']) && (!isset($_GET['fname']) || !empty($_GET['fname'])) {
 
     $MailChimp = new \Drewm\MailChimp($mc_key);
 
@@ -37,7 +37,7 @@ if(!empty($_GET['email']) && !empty($_GET['fname'])) {
                                             'GROUPINGS' => array(
                                                 array(
                                                     'name' => "Conference",
-                                                    'groups' => array("CSSConf")
+                                                    'groups' => array("JSConf")
                                                 )
                                             )
                                         ),
