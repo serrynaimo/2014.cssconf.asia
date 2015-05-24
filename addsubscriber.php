@@ -25,7 +25,7 @@ if($result->was_successful()) {
     echo $result->response->Message;
 }*/
 
-if(!empty($_GET['email']) && (!isset($_GET['fname']) || !empty($_GET['fname'])) {
+if(!empty($_GET['email']) && (!isset($_GET['fname']) || !empty($_GET['fname']))) {
 
     $MailChimp = new \Drewm\MailChimp($mc_key);
 
