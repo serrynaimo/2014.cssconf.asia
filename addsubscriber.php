@@ -25,33 +25,42 @@ if($result->was_successful()) {
     echo $result->response->Message;
 }*/
 
-$MailChimp = new \Drewm\MailChimp($mc_key);
+if(!empty($_GET['email']) && !empty($_GET['fname'])) {
 
-$result = $MailChimp->call('lists/subscribe', array(
-                'id'                => '319c43ef80',
-                'email'             => array('email'=>$_GET['email']),
-                'merge_vars'        => array(
-                                        'GROUPINGS' => array(
-                                            array(
-                                                'name' => "Conference",
-                                                'groups' => array("CSSConf")
+    $MailChimp = new \Drewm\MailChimp($mc_key);
+
+    $result = $MailChimp->call('lists/subscribe', array(
+                    'id'                => '319c43ef80',
+                    'email'             => array('email'=>$_GET['email']),
+                    'merge_vars'        => array(
+                                            'FNAME' => $_GET['fname'],
+                                            'GROUPINGS' => array(
+                                                array(
+                                                    'name' => "Conference",
+                                                    'groups' => array("CSSConf")
+                                                )
                                             )
-                                        )
-                                    ),
-                'double_optin'      => false,
-                'update_existing'   => true,
-                'replace_interests' => false,
-                'send_welcome'      => false,
-            ));
+                                        ),
+                    'double_optin'      => false,
+                    'update_existing'   => true,
+                    'replace_interests' => false,
+                    'send_welcome'      => false,
+                ));
 
-if(isset($result['email'])) {
-    echo "Thanks! :)";
-} else if(isset($result['error'])) {
-    echo "That's not a valid email. Can you check again?";
+    if(isset($result['email'])) {
+        echo "Thanks! :)";
+    } else if(isset($result['error'])) {
+        echo "That's not a valid email. Can you check again?";
+    } else {
+        echo "Something went wrong. Please try this another time again. :(";
+    }
+
 } else {
-    echo "Something went wrong. Please try this another time again. :(";
+    echo "Please provide both your first name and email address.";
 }
 
+
+
 ?><br/><br/>
-<a href="http://jsconf.asia">Back to the site</a>
+<a href="http://cssconf.asia">Back to the site</a>
 
