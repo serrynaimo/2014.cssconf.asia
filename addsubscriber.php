@@ -29,6 +29,12 @@ if(!empty($_GET['email']) && (!isset($_GET['fname']) || !empty($_GET['fname'])))
 
     $MailChimp = new \Drewm\MailChimp($mc_key);
 
+    $group = "CSSConf";
+
+    if(!empty($_GET['group']) && $_GET['group'] == "DevFest") {
+        $group = "DevFest";
+    }
+
     $result = $MailChimp->call('lists/subscribe', array(
                     'id'                => '319c43ef80',
                     'email'             => array('email'=>$_GET['email']),
@@ -37,7 +43,7 @@ if(!empty($_GET['email']) && (!isset($_GET['fname']) || !empty($_GET['fname'])))
                                             'GROUPINGS' => array(
                                                 array(
                                                     'name' => "Conference",
-                                                    'groups' => array("JSConf")
+                                                    'groups' => array($group)
                                                 )
                                             )
                                         ),
