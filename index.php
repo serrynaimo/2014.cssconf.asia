@@ -29,9 +29,9 @@
 	<meta name="description" content="Bridging web design and implementation. 19th Nov 2014, Amara Sanctuary, Sentosa, Singapore. Follow us on Twitter @cssconfasia"/>
 </head>
 <body class="loading">
-    <a href="http://cssconf.asia" id="thisyear" style="border-radius: 5px 0 0 5px; -webkit-transition: all 1s ease-out; -moz-transition: all 1s ease-out; transition: all 1s ease-out; border-left: 10px solid #c7950a; z-index: 99999; position: fixed; color: white; text-decoration: none; bottom: 40px; right: -400px; width: 320px; padding: 20px 30px; background: rgba(0,0,0,0.9); box-shadow: 3px 3px 5px rba(0,0,0,0.5);">
+    <a href="https://jsconfasia.wufoo.com/forms/cssconf-and-jsconfasia/" id="thisyear" style="border-radius: 5px 0 0 5px; -webkit-transition: all 1s ease-out; -moz-transition: all 1s ease-out; transition: all 1s ease-out; border-left: 10px solid #c7950a; z-index: 99999; position: fixed; color: white; text-decoration: none; bottom: 40px; right: -400px; width: 320px; padding: 20px 30px; background: rgba(0,0,0,0.9); box-shadow: 3px 3px 5px rba(0,0,0,0.5);">
         <b>CSSConf.Asia is back again this year!</b>
-        Click here to learn more.
+        Click here for the CFP
     </a>
 	<section id="background"></section>
 	<section id="beams" style="opacity: 0;">
