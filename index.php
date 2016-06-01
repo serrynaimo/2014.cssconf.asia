@@ -13,7 +13,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>CSSConf.Asia Singapore 2014</title>
-	<link href='http://fonts.googleapis.com/css?family=Doppio+One|Open+Sans|Sanchez|Great+Vibes' rel='stylesheet' type='text/css'>
+	<link href='//fonts.googleapis.com/css?family=Doppio+One|Open+Sans|Sanchez|Great+Vibes' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="css/app.css" />
 	<link rel="shortcut icon" href="favicon.png" >
 	<?php if(!strpos($_SERVER['HTTP_USER_AGENT'],'iPad')) { ?>
@@ -21,8 +21,8 @@
 	<?php } ?>
 	<meta property="og:title" content="CSSConf.Asia Singapore 2014"/>
 	<meta property="og:type" content="website"/>
-	<meta property="og:url" content="http://cssconf.asia/"/>
-	<meta property="og:image" content="http://cssconf.asia/assets/og_cssconfasia.jpg"/>
+	<meta property="og:url" content="//cssconf.asia/"/>
+	<meta property="og:image" content="//cssconf.asia/assets/og_cssconfasia.jpg"/>
 	<meta property="og:site_name" content="CSSConf.Asia"/>
 	<meta property="og:description" content="Bridging web design and implementation. 19th Nov 2014, Amara Sanctuary, Sentosa, Singapore. Follow us on Twitter @cssconfasia"/>
 	<meta name="title" content="CSSConf.Asia Singapore 2014"/>
@@ -46,7 +46,7 @@
 	</section>
 	<section id="intro">
 	    <div>
-    	    <div class="logo" style="opacity: 0;"><a href="http://twitter.com/cssconfasia"><img src="img/cssconfasia.png" alt="CSSConf.Asia 2014 Singapore" /></a></div>
+    	    <div class="logo" style="opacity: 0;"><a href="https://twitter.com/cssconfasia"><img src="img/cssconfasia.png" alt="CSSConf.Asia 2014 Singapore" /></a></div>
     	    <p>
 			<a href="https://www.youtube.com/playlist?list=PL37ZVnwpeshHFbT0mLTNMtMGO1mo6yPRX" target="_blank" class="button">
 				Watch the talk videos!
@@ -56,7 +56,7 @@
     			<a href="#schedule">Schedule</a> &nbsp; &#x2605; &nbsp;
                 <a href="#about">About</a> &nbsp; &#x2605; &nbsp;
     			<a href="#sponsors">Sponsors</a> &nbsp; &#x2605; &nbsp;
-    			<a href="http://facebook.com/cssconfasia">Get Updates</a>
+    			<a href="https://facebook.com/cssconfasia">Get Updates</a>
     		</div>
 	    </div>
 	</section>
@@ -79,7 +79,7 @@
 		<section id="speakers">
 			<h2>Schedule</h2>
 			<p>
-				We’re very proud to have some of the finest CSS developers sharing their stories and experiences. <a href="http://twitter.com/cssconfasia">Follow us on Twitter</a> for regular updates around the event and CSS.
+				We’re very proud to have some of the finest CSS developers sharing their stories and experiences. <a href="https://twitter.com/cssconfasia">Follow us on Twitter</a> for regular updates around the event and CSS.
 			</p>
 		    <div class="column">
     			<div class="speaker dot">
@@ -261,14 +261,14 @@
             </p>
             <h3>It’s for you!</h3>
             <p>
-            Together with <a href="http://2014.jsconf.asia">JSConf</a>, we want to make community events that bring Southeast-Asia’s best web designers together in a playful and informal environment. It’s gonna be a great setting for learning and exchange and we can’t wait to see you there!
+            Together with <a href="https://2014.jsconf.asia">JSConf</a>, we want to make community events that bring Southeast-Asia’s best web designers together in a playful and informal environment. It’s gonna be a great setting for learning and exchange and we can’t wait to see you there!
             </p>
             <p align="right">
                 <a href="https://twitter.com/serrynaimo" target="_blank"><img src="img/thomas.png" alt="Thomas" height="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
                 <a href="https://twitter.com/thedesignnomad" target="_blank"><img src="img/melissa.png" alt="Melissa" height="37" valign="top" /></a> &nbsp; &nbsp;
                 <a href="https://twitter.com/ramanshalupau" target="_blank"><img src="img/raman.png" alt="Raman" height="35" valign="top" /></a>
             </p>
-            <form id="subscribeForm" action="http://2014.cssconf.asia/addsubscriber.php" method="get">
+            <form id="subscribeForm" action="https://2014.cssconf.asia/addsubscriber.php" method="get">
                 <div class="input"><span><input type="email" name="email" placeholder="E-Mail Address" /><input type="submit" value="Subscribe" /></span></div>
                 <div class="msg"><span></span></div>
             </form>
@@ -329,7 +329,7 @@
 		</section>
 		<footer>
 			<p>
-				<a href="http://2014.devfest.asia"><img src="img/devfest.png" height="100" alt="Singapore DevFest.Asia 2014"/></a>
+				<a href="https://2014.devfest.asia"><img src="img/devfest.png" height="100" alt="Singapore DevFest.Asia 2014"/></a>
 			</p>
 			<p>
 				CSSConf.Asia is proudly part of Asia’s first<br/> community organized web developer festival.<br/><br/>
@@ -347,7 +347,7 @@
         <a href="#schedule">Schedule</a> &nbsp; &#x2605; &nbsp;
         <a href="#about">About</a> &nbsp; &#x2605; &nbsp;
 		<a href="#sponsors">Sponsors</a> &nbsp; &#x2605; &nbsp;
-		<a href="http://facebook.com/cssconfasia">Get Updates</a>
+		<a href="https://facebook.com/cssconfasia">Get Updates</a>
 	</nav>
     <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.3.js"></script>
     <script type="text/javascript">window.jQuery || document.write('<script src="js/jquery.min.js">\x3C/script>')</script>
