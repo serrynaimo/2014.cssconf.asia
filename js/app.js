@@ -1,7 +1,7 @@
 console.log('Always be learning!');
 
 $("#subscribeForm").ajaxForm({
-	url: "http://2014.cssconf.asia/addsubscriber.php",
+	url: "https://2014.cssconf.asia/addsubscriber.php",
 	dataType: "html",
 	beforeSubmit: function() {
 		$("#subscribeForm").removeClass("failure success").addClass("load");
@@ -27,7 +27,7 @@ $("#subscribeForm").ajaxForm({
 				$("#subscribeForm .msg").removeClass("play");
 			},3000);
 			setTimeout(function() {
-				window.location = "http://facebook.com/cssconfasia";
+				window.location = "https://facebook.com/cssconfasia";
 			},3200);
 		}
 	},
